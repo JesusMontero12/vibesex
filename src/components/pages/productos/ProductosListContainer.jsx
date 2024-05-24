@@ -128,7 +128,7 @@ const ProductosListContainer = () => {
           "¡Genial!",
           "Tu producto se agregó a la colección correctamente."
         );
-        llamar funcion para vaciar el formulario
+        // llamar funcion para vaciar el formulario
       })
       .catch((error) => console.log(error));
   };
