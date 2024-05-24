@@ -58,6 +58,7 @@ const Productos = ({
                       <th>ID</th>
                       <th>IMAGEN</th>
                       <th>NOMBRE</th>
+                      <th>COSTO</th>
                       <th>PRECIO</th>
                       <th>DESCRIPCIÓN</th>
                       <th>CARACTERÍSTICAS</th>
@@ -70,11 +71,12 @@ const Productos = ({
                     </tr>
                   </thead>
                   <tbody>
-                    {productos.map(
+                    {items.map(
                       ({
                         id,
                         imagen,
                         nombre,
+                        precioCosto,
                         precio,
                         descripcion,
                         caracteristicas,
@@ -117,6 +119,18 @@ const Productos = ({
                                 />
                               ) : (
                                 nombre?.substring(0, 12) + "..."
+                              )}
+                            </td>
+                            <td>
+                              {modificar[id] ? (
+                                <Form.Control
+                                  name="precioCosto"
+                                  type="text"
+                                  placeholder={precioCosto}
+                                  onChange={(e) => console.log(e.target.value)}
+                                />
+                              ) : (
+                                precioCosto
                               )}
                             </td>
                             <td>
@@ -281,13 +295,24 @@ const Productos = ({
                 <h1 className="mb-3 p-2 text-center">Agregar nuevo producto</h1>
                 {/* INPUTS NOMBRE Y PRECIO */}
                 <Row className="mb-3 g-2">
+                  <FloatingLabel controlId="floatingNombre" label="Nombre">
+                    <Form.Control
+                      name="nombre"
+                      onChange={handleChange}
+                      type="text"
+                      placeholder="Nombre"
+                    />
+                  </FloatingLabel>
                   <Col md>
-                    <FloatingLabel controlId="floatingNombre" label="Nombre">
+                    <FloatingLabel
+                      controlId="floatingPrecio"
+                      label="Precio costo"
+                    >
                       <Form.Control
-                        name="nombre"
+                        name="precioCosto"
                         onChange={handleChange}
                         type="text"
-                        placeholder="Nombre"
+                        placeholder="Precio costo"
                       />
                     </FloatingLabel>
                   </Col>
@@ -428,11 +453,7 @@ const Productos = ({
                   </Form.Group>
                 </Row>
 
-                <Button
-                  variant="primary"
-                  type="submit"
-                  onClick={transformarInput}
-                >
+                <Button variant="primary" type="submit">
                   Publicar
                 </Button>
               </Form>

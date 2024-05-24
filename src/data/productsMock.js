@@ -1,6 +1,6 @@
 export let productos = [
   {
-    id: "1",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -18,7 +18,7 @@ export let productos = [
     tags: ["condones", "proteccion", "resistente"],
   },
   {
-    id: "2",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -36,7 +36,7 @@ export let productos = [
     tags: ["condones", "proteccion", "fluorescente"],
   },
   {
-    id: "3",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -54,7 +54,7 @@ export let productos = [
     tags: ["condones", "proteccion", "anatomic"],
   },
   {
-    id: "4",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -72,7 +72,7 @@ export let productos = [
     tags: ["condones", "proteccion", "dotted"],
   },
   {
-    id: "5",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -90,7 +90,7 @@ export let productos = [
     tags: ["condones", "proteccion", "sabores"],
   },
   {
-    id: "6",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -109,7 +109,7 @@ export let productos = [
     tags: ["lubricantes", "gel intimo", "retardante"],
   },
   {
-    id: "7",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -126,7 +126,7 @@ export let productos = [
     tags: "book",
   },
   {
-    id: "8",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -143,7 +143,7 @@ export let productos = [
     tags: "book",
   },
   {
-    id: "9",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -160,7 +160,7 @@ export let productos = [
     tags: "book",
   },
   {
-    id: "10",
+    
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
@@ -182,7 +182,7 @@ export let productos = [
 
 export const inventario = [
   {
-    id: "1",
+    
     idProducto: "1",
     stockInicial: "10",
     stock: "10",
@@ -191,7 +191,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "2",
+    
     idProducto: "2",
     stockInicial: "10",
     stock: "10",
@@ -200,7 +200,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "3",
+    
     idProducto: "3",
     stockInicial: "10",
     stock: "10",
@@ -209,7 +209,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "4",
+    
     idProducto: "4",
     stockInicial: "10",
     stock: "10",
@@ -218,7 +218,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "5",
+    
     idProducto: "5",
     stockInicial: "10",
     stock: "10",
@@ -227,7 +227,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "6",
+    
     idProducto: "6",
     stockInicial: "10",
     stock: "10",
@@ -236,7 +236,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "7",
+    
     idProducto: "7",
     stockInicial: "10",
     stock: "10",
@@ -245,7 +245,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "8",
+    
     idProducto: "8",
     stockInicial: "10",
     stock: "10",
@@ -254,7 +254,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "9",
+    
     idProducto: "9",
     stockInicial: "10",
     stock: "10",
@@ -263,7 +263,7 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    id: "10",
+    
     idProducto: "10",
     stockInicial: "10",
     stock: "10",

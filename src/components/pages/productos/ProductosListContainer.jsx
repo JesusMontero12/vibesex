@@ -29,6 +29,7 @@ const ProductosListContainer = () => {
   const [info, setInfo] = useState({
     imagen: [],
     nombre: "",
+    precioCosto: "",
     precio: "",
     descripcion: "",
     caracteristicas: "",
@@ -90,6 +91,16 @@ const ProductosListContainer = () => {
     });
   };
 
+  const messageProdAdd = (titulo, msj) => {
+    Swal.fire({
+      position: "center",
+      icon: "success",
+      title: titulo,
+      text: msj,
+      showConfirmButton: true,
+    });
+  };
+
   // ESCUCHA LOS CAMBIOS DE LOS INPUTS Y LOS SETEA EN EL OBJETO INFO
   const handleChange = (e) => {
     let { name, value } = e.target;
@@ -111,7 +122,14 @@ const ProductosListContainer = () => {
 
     const productsCollection = collection(db, "productos");
     addDoc(productsCollection, info)
-      .then((res) => setInfo(res.id))
+      .then((res) => {
+        setInfo(res.id);
+        messageProdAdd(
+          "¡Genial!",
+          "Tu producto se agregó a la colección correctamente."
+        );
+        llamar funcion para vaciar el formulario
+      })
       .catch((error) => console.log(error));
   };
 
