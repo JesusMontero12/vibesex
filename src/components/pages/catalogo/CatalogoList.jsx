@@ -5,13 +5,20 @@ import { Link } from "react-router-dom";
 const CatalogoList = () => {
   return (
     <>
+      <Container fluid className="m-0 p-0 bg-secondary">
+        <p className="text-center p-2 text-center text-light">
+          ¡Próximamente lanzaremos nuestra plataforma de compras en línea para
+          que puedas acceder a nuestros productos desde la comodidad de tu
+          hogar! ¡Prepárate para una experiencia de compra fácil y conveniente!
+        </p>
+      </Container>
       <Container fluid className="m-0 p-0">
         <Row className="m-0 p-0 ">
           <Col sx={5} sm={3} md={3} lg={3} xl={2} xxl={2}>
             <p className="text-center m-5 fw-bold text-secondary">CATEGORÍAS</p>
             <Container fluid>
               <Row>
-                <Col className="d-flex flex-row justify-content-center">
+                <Col className="d-flex flex-row justify-content-center text-center">
                   <Link
                     to={`/categoria/paraambos`}
                     className="text-decoration-none"
@@ -35,7 +42,7 @@ const CatalogoList = () => {
                     </Card>
                   </Link>
                 </Col>
-                <Col className="d-flex flex-row justify-content-center">
+                <Col className="d-flex flex-row justify-content-center text-center">
                   <Link
                     to={`/categoria/hombre`}
                     className="text-decoration-none"
@@ -59,7 +66,7 @@ const CatalogoList = () => {
                     </Card>
                   </Link>
                 </Col>
-                <Col className="d-flex flex-row justify-content-center">
+                <Col className="d-flex flex-row justify-content-center text-center">
                   <Link
                     to={`/categoria/mujer`}
                     className="text-decoration-none"
@@ -108,15 +115,30 @@ const CatalogoList = () => {
                             fontFamily: "arimo",
                           }}
                         >
-                          <Carousel data-bs-theme="secondary">
-                            <Carousel.Item>
-                              <Card.Img
-                                variant="top"
-                                src={imagen[0]}
-                                style={{ width: "15rem", height: "15rem" }}
-                              />
-                            </Carousel.Item>
+                          <Carousel
+                            slide={false}
+                            interval={null}
+                            indicators={false}
+                            controls={imagen.length > 1}
+                            data-bs-theme="dark"
+                          >
+                            {imagen.map(
+                              (
+                                src,
+                                index // Corregido el uso de map
+                              ) => (
+                                <Carousel.Item key={index}>
+                                  <Card.Img
+                                    className="d-block w-100"
+                                    variant="top"
+                                    src={src}
+                                    style={{ width: "15rem", height: "15rem" }}
+                                  />
+                                </Carousel.Item>
+                              )
+                            )}
                           </Carousel>
+
                           <Card.Body className="m-0 p-0">
                             <Card.Title
                               style={{ fontWeight: "600" }}
@@ -144,9 +166,9 @@ const CatalogoList = () => {
                           </Card.Body>
                           <Card.Body className="text-center">
                             <Link
-                              style={{}}
+                              style={{ cursor: "pointer" }}
                               className="bg-dark p-2 rounded text-decoration-none link-light"
-                              to={"/detalleCatalogo"}
+                              to={`/detalleProducto/${id}`}
                             >
                               Ver producto
                             </Link>

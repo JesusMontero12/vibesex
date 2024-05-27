@@ -3,8 +3,6 @@ export let productos = [
     id: 1,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
     ],
     nombre: "ENEMA ANAL DUCHA 160 ML",
     precioCosto: 3990,
@@ -22,9 +20,7 @@ export let productos = [
   {
     id: 2,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
     ],
     nombre: "ROTADOR MARIPOSA USB SUBE Y BAJA",
     precioCosto: 13990,
@@ -41,9 +37,7 @@ export let productos = [
   {
     id: 3,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
     ],
     nombre: "ANILLO VIBRADOR CONEJO ROSA",
     precioCosto: 8990,
@@ -120,9 +114,9 @@ export let productos = [
   {
     id: 7,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687795/proyects/VibeSex/products/Estimulador-de-prostata-vibracion-1_usceft.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687795/proyects/VibeSex/products/Estimulador-de-prostata-vibracion-1_usceft.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687795/proyects/VibeSex/products/Estimulador-de-prostata-vibracion-1_usceft.jpg",
     ],
     nombre: "ESTIMULADOR DE PROSTATA VIBRACION",
     precioCosto: 5990,
