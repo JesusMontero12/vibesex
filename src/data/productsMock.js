@@ -3,6 +3,8 @@ export let productos = [
     id: 1,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
     ],
     nombre: "ENEMA ANAL DUCHA 160 ML",
     precioCosto: 3990,
@@ -21,6 +23,8 @@ export let productos = [
     id: 2,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
     ],
     nombre: "ROTADOR MARIPOSA USB SUBE Y BAJA",
     precioCosto: 13990,
@@ -37,6 +41,8 @@ export let productos = [
   {
     id: 3,
     imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
     ],
     nombre: "ANILLO VIBRADOR CONEJO ROSA",
@@ -449,31 +455,6 @@ export let productos = [
   {
     id: 23,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
-    ],
-    nombre: "SENSOR PLUS EXTRA RESISTENTE CON NONOXYNOL -9",
-    precioCosto: 990,
-    precio: 5000,
-    stock: 1,
-    descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "true",
-    descuento: 10,
-    categoria: ["preservativos", "cosmetica", "hombre"],
-    tags: [
-      "condones",
-      "extra resistente",
-      "preservativos",
-      "lubricados",
-      "sensorplus",
-    ],
-  },
-  {
-    id: 24,
-    imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
@@ -497,7 +478,7 @@ export let productos = [
     ],
   },
   {
-    id: 25,
+    id: 24,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698943/proyects/VibeSex/products/lubricante-duramas_fwlcwr.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698943/proyects/VibeSex/products/lubricante-duramas_fwlcwr.jpg",
@@ -517,7 +498,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "retardante"],
   },
   {
-    id: 26,
+    id: 25,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699347/proyects/VibeSex/products/lubricante-mrthickdick_ua9djz.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699347/proyects/VibeSex/products/lubricante-mrthickdick_ua9djz.jpg",
@@ -543,7 +524,7 @@ export let productos = [
     ],
   },
   {
-    id: 27,
+    id: 26,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699913/proyects/VibeSex/products/lubricante-blackice_jh2tjn.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699913/proyects/VibeSex/products/lubricante-blackice_jh2tjn.jpg",
@@ -563,7 +544,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "frio"],
   },
   {
-    id: 28,
+    id: 27,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700940/proyects/VibeSex/products/lubricante-anal-lube_dh6pcz.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700940/proyects/VibeSex/products/lubricante-anal-lube_dh6pcz.jpg",
@@ -582,7 +563,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
   {
-    id: 29,
+    id: 28,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700452/proyects/VibeSex/products/lubricante-anal-maxwidth_ebogm7.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700452/proyects/VibeSex/products/lubricante-anal-maxwidth_ebogm7.jpg",
@@ -602,7 +583,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
   {
-    id: 30,
+    id: 29,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716702806/proyects/VibeSex/products/lubricante-neutro_wzxmwj.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716702806/proyects/VibeSex/products/lubricante-neutro_wzxmwj.jpg",
@@ -621,7 +602,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "neutro"],
   },
   {
-    id: 31,
+    id: 30,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716703380/proyects/VibeSex/products/lubricante-estrechante_lfwa3w.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716703380/proyects/VibeSex/products/lubricante-estrechante_lfwa3w.jpg",
@@ -641,7 +622,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "estrechante"],
   },
   {
-    id: 32,
+    id: 31,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704135/proyects/VibeSex/products/lubricante-menta_xgv23g.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704135/proyects/VibeSex/products/lubricante-menta_xgv23g.jpg",
@@ -661,7 +642,7 @@ export let productos = [
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "menta"],
   },
   {
-    id: 33,
+    id: 32,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704638/proyects/VibeSex/products/viagra-hombre_zrgg32.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704638/proyects/VibeSex/products/viagra-hombre_zrgg32.jpg",
@@ -680,7 +661,7 @@ export let productos = [
     tags: ["afrodisiaco", "viagra", "natural"],
   },
   {
-    id: 34,
+    id: 33,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705103/proyects/VibeSex/products/viagra-hombre-mujer_forac2.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705103/proyects/VibeSex/products/viagra-hombre-mujer_forac2.jpg",
@@ -699,7 +680,7 @@ export let productos = [
     tags: ["afrodisiaco", "viagra", "natural"],
   },
   {
-    id: 35,
+    id: 34,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705372/proyects/VibeSex/products/Titan-Gold-Gel-Lubricante-Masculino-1_k2z2r7.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705372/proyects/VibeSex/products/Titan-Gold-Gel-Lubricante-Masculino-1_k2z2r7.jpg",
@@ -719,7 +700,7 @@ export let productos = [
     tags: ["lubricante", "titan gold"],
   },
   {
-    id: 36,
+    id: 35,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716706577/proyects/VibeSex/products/lubricante-de-sandia_ip00vv.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716706577/proyects/VibeSex/products/lubricante-de-sandia_ip00vv.jpg",
@@ -737,7 +718,7 @@ export let productos = [
     tags: ["sabores", "sandia", "lubricantes"],
   },
   {
-    id: 37,
+    id: 36,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707035/proyects/VibeSex/products/lubricante-anal-hemp_urlyru.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707035/proyects/VibeSex/products/lubricante-anal-hemp_urlyru.jpg",
@@ -757,7 +738,7 @@ export let productos = [
     tags: ["anal", "hemp", "lubricantes", "cannabis"],
   },
   {
-    id: 38,
+    id: 37,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707682/proyects/VibeSex/products/lubricante-excitante-femenino_fq1qnt.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707682/proyects/VibeSex/products/lubricante-excitante-femenino_fq1qnt.jpg",
@@ -775,7 +756,7 @@ export let productos = [
     tags: ["vaginal", "lubricantes", "excitante"],
   },
   {
-    id: 39,
+    id: 38,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707963/proyects/VibeSex/products/lubricante-de-chocolate_hotvkq.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707963/proyects/VibeSex/products/lubricante-de-chocolate_hotvkq.jpg",
@@ -795,7 +776,7 @@ export let productos = [
     tags: ["lubricantes", "sabores", "chocolate"],
   },
   {
-    id: 40,
+    id: 39,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716708415/proyects/VibeSex/products/titan-gold_iuv7fk.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716708415/proyects/VibeSex/products/titan-gold_iuv7fk.jpg",

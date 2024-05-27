@@ -1,6 +1,7 @@
 import { Button, Card, Carousel, Col, Container, Row } from "react-bootstrap";
 import { productos } from "../../../data/productsMock";
 import { Link } from "react-router-dom";
+import ProductoCardContainer from "../../common/productoCard/ProductoCardContainer";
 
 const CatalogoList = () => {
   return (
@@ -99,84 +100,41 @@ const CatalogoList = () => {
             </p>
             <Container fluid>
               <Row>
-                {productos.map(
-                  ({ id, imagen, nombre, precio, descripcion }) => {
-                    return (
-                      <Col
-                        key={id}
-                        className="d-flex flex-row justify-content-center"
-                      >
-                        <Card
-                          className="m-1"
-                          style={{
-                            width: "15rem",
-                            height: "25rem",
-                            border: "none",
-                            fontFamily: "arimo",
-                          }}
+                {productos.length > 0 ? (
+                  productos.map(
+                    ({ id, imagen, nombre, precio, descripcion, stock }) => {
+                      return (
+                        <Col
+                          key={id}
+                          className="d-flex flex-row justify-content-center"
                         >
-                          <Carousel
-                            slide={false}
-                            interval={null}
-                            indicators={false}
-                            controls={imagen.length > 1}
-                            data-bs-theme="dark"
-                          >
-                            {imagen.map(
-                              (
-                                src,
-                                index // Corregido el uso de map
-                              ) => (
-                                <Carousel.Item key={index}>
-                                  <Card.Img
-                                    className="d-block w-100"
-                                    variant="top"
-                                    src={src}
-                                    style={{ width: "15rem", height: "15rem" }}
-                                  />
-                                </Carousel.Item>
-                              )
-                            )}
-                          </Carousel>
-
-                          <Card.Body className="m-0 p-0">
-                            <Card.Title
-                              style={{ fontWeight: "600" }}
-                              className="fs-6 m-1 text-dark"
-                            >
-                              {nombre.substring(0, 18) + "..."}
-                            </Card.Title>
-                            <Card.Text className="fs-6 m-0 p-0 text-secondary">
-                              {descripcion ? (
-                                descripcion.substring(0, 22) + "..."
-                              ) : (
-                                <br />
-                              )}
-                            </Card.Text>
-                            <Card.Text
-                              style={{ fontWeight: "600" }}
-                              className="fs-6 m-0 p-0 text-dark"
-                            >
-                              {precio
-                                .toLocaleString("es-ES", {
-                                  minimumFractionDigits: 2,
-                                })
-                                .replace(/\B(?=(\d{3})+(?!\d))/g, ".")}
-                            </Card.Text>
-                          </Card.Body>
-                          <Card.Body className="text-center">
-                            <Link
-                              style={{ cursor: "pointer" }}
-                              className="bg-dark p-2 rounded text-decoration-none link-light"
-                              to={`/detalleProducto/${id}`}
-                            >
-                              Ver producto
-                            </Link>
-                          </Card.Body>
-                        </Card>
-                      </Col>
-                    );
-                  }
+                          <ProductoCardContainer
+                            id={id}
+                            imagen={imagen}
+                            nombre={nombre}
+                            precio={precio}
+                            descripcion={descripcion}
+                            stock={stock}
+                          />
+                        </Col>
+                      );
+                    }
+                  )
+                ) : (
+                  <Card style={{ width: "18rem" }}>
+                    <Card.Img variant="top" src="holder.js/100px180" />
+                    <Card.Body>
+                      <Placeholder as={Card.Title} animation="glow">
+                        <Placeholder xs={6} />
+                      </Placeholder>
+                      <Placeholder as={Card.Text} animation="glow">
+                        <Placeholder xs={7} /> <Placeholder xs={4} />{" "}
+                        <Placeholder xs={4} /> <Placeholder xs={6} />{" "}
+                        <Placeholder xs={8} />
+                      </Placeholder>
+                      <Placeholder.Button variant="primary" xs={6} />
+                    </Card.Body>
+                  </Card>
                 )}
               </Row>
             </Container>
