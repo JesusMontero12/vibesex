@@ -13,6 +13,7 @@ import Productos from "./Productos.jsx";
 import Swal from "sweetalert2";
 
 const ProductosListContainer = () => {
+  const [isLoading, setIsLoading] = useState(false);
   const [items, setItems] = useState([]);
   const [error, setError] = useState(null);
   const [modificar, setModificar] = useState({});
@@ -70,7 +71,7 @@ const ProductosListContainer = () => {
     }));
   };
 
-  const messageDelete = (titulo, msj, imgurl) => {
+  const messageDelete = (id, titulo, msj, imgurl) => {
     Swal.fire({
       title: titulo,
       text: msj,
@@ -82,6 +83,13 @@ const ProductosListContainer = () => {
       confirmButtonText: "Sí, Eliminar",
     }).then((result) => {
       if (result.isConfirmed) {
+        // ELIMINA EL PRODUCTO
+        const productoRef = doc(db, "productos", id);
+        deleteDoc(productoRef);
+
+        const newArray = items.filter((product) => product.id !== id);
+        setItems(newArray);
+
         Swal.fire({
           title: "¡Eliminado!",
           text: "El producto ha sido eliminado con éxito.",
@@ -135,25 +143,35 @@ const ProductosListContainer = () => {
 
   // ELIMINA LOS PRODUCTOS DE LA COLLECTION PRODUCTOS
   const deleteById = (id, imgurl) => {
-    messageDelete("¡Espera!", "¿Quieres eliminar este producto?", imgurl);
-
-    const productoRef = doc(db, "productos", id);
-    deleteDoc(productoRef);
-
-    const newArray = items.filter((product) => product.id !== id);
-    setItems(newArray);
+    messageDelete(id, "¡Espera!", "¿Quieres eliminar este producto?", imgurl);
   };
 
   useEffect(() => {
     const productsCollection = collection(db, "productos");
     let consulta = productsCollection;
-    getDocs(consulta).then((res) => {
-      let newArray = res.docs.map((doc) => {
-        return { id: doc.id, ...doc.data() };
+    getDocs(consulta)
+      .then((res) => {
+        let newArray = res.docs.map((doc) => {
+          return { id: doc.id, ...doc.data() };
+        });
+        setItems(newArray);
+      })
+      .catch((error) => {
+        setError(error);
       });
-      setItems(newArray);
-    });
-  });
+
+    const promiseTimer = () => {
+      return new Promise((resolve) => setTimeout(resolve, 2000));
+    };
+
+    if (isLoading) {
+      promiseTimer().then(() => {
+        setIsLoading(false);
+      });
+    }
+  }, [items]);
+  
+  const handleClick = () => setIsLoading(true);
 
   return (
     <Productos
@@ -168,6 +186,8 @@ const ProductosListContainer = () => {
       formData={formData}
       handleInputChange={handleInputChange}
       transformarInput={transformarInput}
+      handleClick={handleClick}
+      isLoading={isLoading}
     />
   );
 };

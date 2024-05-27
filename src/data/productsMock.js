@@ -1,188 +1,829 @@
 export let productos = [
   {
-    
+    id: 1,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716682988/proyects/VibeSex/products/ENEMA-ANAL-DUCHA_slcquh.jpg",
     ],
-    nombre: "Sensor plus extra resistente",
-    precioCosto: "990",
-    precio: "2500",
+    nombre: "ENEMA ANAL DUCHA 160 ML",
+    precioCosto: 3990,
+    precio: 2500,
+    stock: 1,
     descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). MÁXIMA PROTECCIÓN Y ESTIMULACIÓN.",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "false",
-    descuento: "0",
-    categoria: ["preservativos", "hombres", "cosmetica"],
-    tags: ["condones", "proteccion", "resistente"],
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "Sensor plus magic",
-    precioCosto: "990",
-    precio: "2500",
-    descripcion:
-      "En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer. ",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "false",
-    descuento: "0",
-    categoria: ["preservativos", "hombres", "cosmetica"],
-    tags: ["condones", "proteccion", "fluorescente"],
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "Sensor plus anatomic",
-    precioCosto: "990",
-    precio: "2500",
-    descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). PERFIL ANATÓMICO, QUE PERMITE UN AJUSTE PERFECTO.",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "false",
-    descuento: "0",
-    categoria: ["preservativos", "hombres", "cosmetica"],
-    tags: ["condones", "proteccion", "anatomic"],
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "Sensor Plus Dotted",
-    precioCosto: "990",
-    precio: "2500",
-    descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). SUPERFICIE TEXTURADA PARA PRODUCIR UNA ESTIMULACIÓN EXTRA.",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "false",
-    descuento: "0",
-    categoria: ["preservativos", "hombres", "cosmetica"],
-    tags: ["condones", "proteccion", "dotted"],
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "Sensor plus tres sabores",
-    precioCosto: "990",
-    precio: "2500",
-    descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CON DELICIOSOS SABORES A FRUTILLA, VAINILLA Y PLÁTANO.",
-    caracteristicas: "3 condones de latex lubricados",
-    sale: "false",
-    descuento: "0",
-    categoria: ["preservativos", "hombres", "cosmetica"],
-    tags: ["condones", "proteccion", "sabores"],
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "Lubricante dura mas",
-    precioCosto: "990",
-    precio: "8000",
-    descripcion:
-      "Lentamente con Duramas Gel Retardante. De acción rápida, funciona reduciendo su nivel de sensibilidad para que usted y su pareja puedan disfrutar de un juego prolongado y de placer. Actúa como un desensibilizador tópico temporal para reducir la sensibilidad. Ayuda a prevenir la eyaculación precoz para prolongar el placer. Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel. Intensidad de desensibilización media. Contenido : 50 ml. Este, es un producto para la eyaculación precoz que ayuda a incrementar el tiempo de la relación sexual y retrasar la eyaculación actuando en el centro de las emociones cerebrales. El tratamiento para la eyaculación precoz con Duramas Gel Retardante y no requiere receta ni prescripción médica. Duramas Gel Retardante:  para la eyaculación precoz Es una terapia herbal Actúa localmente en los órganos genitales Controla el proceso de la eyaculación Controla la neuroendocrina. La eyaculación precoz es una condición sexual muy frecuente entre los hombres, causada por diversas causas fisiológicas o psicológicas. Los ingredientes de Duramas Gel Retardante contienen una combinación poderosa de finas hierbas que funcionan directamente sobre las serotoninas del cerebro, interactuando con los químicos cerebrales para generar un retraso e incrementar el placer en el orgasmo.",
+      "Enema anal ducha ¿QUÉ ES? No es un tema como para compartir con tu pareja porque, aunque tengáis mucha confianza, lo de las limpiezas anales corta un poco el rollo. Sin embargo, los accesorios de Ouch! tienen ese toque fashion que destierran por completo la imagen de la perilla clásica que utilizan los abuelos.Este limpiador anal negro tiene mucho glamur. Está fabricado en un material muy agradable al tacto y con una boquilla que entra cómodamente en el conducto del ano para facilitarte una limpieza profunda. Y lo más importante de todo, es un método muy efectivo de higienizar la zona antes de mantener relaciones con penetración anal",
     caracteristicas:
-      "INGREDIENTES: L-ARGININA – AVENA SATIVA-EXTRACTO CANNABIS. Contenido :  50 ml Modo de uso: Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel y para tratamiento aplicación 3 veces al día por 3 meses.",
+      "IMPORTANTE: No retires el pequeño papel plástico que viene al interior del juguete, donde van ubicadas las pilas. Es una parte del producto. Si lo sacas, el juguete no funcionará correctamente. ¡No lo olvides! Lava tu juguete antes y después de cada uso con TOY CLEANER Usa lubricante en base de agua con tus juguetes. Todos nuestros juguetes son de materiales hipoalergénicos. Se lavan con agua tibia, un jabón neutro y nada más. Seca bien el juguete después de lavarlo y guárdalo en un lugar seco. No guardes tus juguetes en bolsas plásticas. No es necesario usar un preservativo con tu juguete, pero ayuda a facilitar la limpieza.",
     sale: "false",
-    descuento: "0",
-    categoria: ["lubricantes", "hombres", "cosmetica"],
-    tags: ["lubricantes", "gel intimo", "retardante"],
+    descuento: 0,
+    categoria: ["dilatador anal", "cosmetica", "para ambos"],
+    tags: ["ducha anal", "lavado anal", "enema"],
   },
   {
-    
+    id: 2,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685706/proyects/VibeSex/products/BI-010132-1_09_ts1z9k.jpg",
     ],
-    nombre: "book7",
-    precioCosto: "",
-    precio: "22",
-    descripcion: "description7",
-    caracteristicas: "features7",
+    nombre: "ROTADOR MARIPOSA USB SUBE Y BAJA",
+    precioCosto: 13990,
+    precio: 30000,
+    stock: 1,
+    descripcion: "",
+    caracteristicas:
+      "ROTADOR MARIPOSA USB SUBE Y BAJA BAILE BW-037037 Este cono de vibración cuenta con un innovador eje de empuje. También tiene picos retorcidos y hermosas crestas. Elige entre 4 velocidades de impulso y giro. El estimulador de clítoris con forma de polilla presenta 12 funciones de vibración con motores potentes y silenciosos, con un enchufe USB que se puede recargar directamente para un placer sin fin. En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer.",
     sale: "true",
-    descuento: "0",
-    categoria: "scifi",
-    tags: "book",
+    descuento: 0,
+    categoria: ["rotador", "vibrador", "mujer"],
+    tags: ["vibrador", "rotador", "dildo"],
   },
   {
-    
+    id: 3,
     imagen: [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
     ],
-    nombre: "book8",
-    precioCosto: "",
-    precio: "30",
-    descripcion: "description8",
-    caracteristicas: "features8",
-    sale: "false",
-    descuento: "0",
-    categoria: "scifi",
-    tags: "book",
-  },
-  {
-    
-    imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
-    ],
-    nombre: "book9",
-    precioCosto: "",
-    precio: "28",
-    descripcion: "description9",
-    caracteristicas: "features9",
+    nombre: "ANILLO VIBRADOR CONEJO ROSA",
+    precioCosto: 8990,
+    precio: 20000,
+    stock: 1,
+    descripcion:
+      "Coge todos los elementos clave de un vibrador de conejo y combínalos con un anillo para el pene y te quedará este fantástico anillo para el pene de conejo. Este juguete que estimula la erección abrazará cómodamente la base de su pene y disminuirá el flujo de sangre para una erección más dura y más grande que durará más. Y con una acumulación más prolongada, puede estar seguro de obtener algunos resultados poderosos. El vibrador de bala se sostiene debajo del estímulo del clítoris del conejo y enviará sensaciones lujosas a través del estimulador y dentro del clítoris de su pareja con cada empuje. Finalmente, este juguete también cuenta con un anillo texturizado para una estimulación aún mayor, lo que lo convierte en un juguete sexual al que te encontrarás buscando una y otra vez.",
+    caracteristicas:
+      "Recomendaciones: Lávalo antes y después de utilizarlo con agua tibia y jabón. Si es de uso personal con tu pareja, no necesitas preservativo para utilizarlo. Siempre guárdalo seco y en un lugar sin humedad. Puedes utilizarlo donde quieras! Debajo del agua! Siempre debes guardarlo limpio con Toy cleaner",
     sale: "true",
-    descuento: "0",
-    categoria: "scifi",
-    tags: "book",
+    descuento: 0,
+    categoria: ["vibrador", "anillo", "para ambos"],
+    tags: ["anillo vibrador", "anillo"],
   },
   {
-    
+    id: 4,
     imagen: [
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503723/proyects/vector/products/camiseta-marron1-1_vopkve.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503727/proyects/vector/products/camiseta-marron1-2_zihdzz.jpg",
-      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1712503731/proyects/vector/products/camiseta-marron1-3_wijavm.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716217797/proyects/VibeSex/products/esposas-metal-peluda_fwjlnp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716217797/proyects/VibeSex/products/esposas-metal-peluda_fwjlnp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716217797/proyects/VibeSex/products/esposas-metal-peluda_fwjlnp.jpg",
     ],
-    nombre: "book10",
-    precioCosto: "",
-    precio: "35",
-    descripcion: "description10",
-    caracteristicas: "features10",
+    nombre: "ESPOSAS METAL PELUDA",
+    precioCosto: 1490,
+    precio: 7000,
+    stock: 1,
+    descripcion:
+      "son esposas de metal con una suave y peluda cubierta para mayor comodidad. Sorprende a tu pareja con estas suaves esposas y disfruten juntos de muchas fantasías. Las Esposas metal peluda son ideales para que lo intentes y salgas de dudas, que tan rudo o ruda crees que eres, pues dale la vuelta y dile… Arriba las manos!! Incluye dos llaves. Te recomendamos visitar seccion BSDM",
+    caracteristicas: "COLOR SEGUN STOCK EN TIENDA",
+    sale: "true",
+    descuento: 0,
+    categoria: ["para ambos", "mujer"],
+    tags: ["esposas", "BSDM"],
+  },
+  {
+    id: 5,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716686764/proyects/VibeSex/products/anillo-desechable_gqunvp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716686764/proyects/VibeSex/products/anillo-desechable_gqunvp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716686764/proyects/VibeSex/products/anillo-desechable_gqunvp.jpg",
+    ],
+    nombre: "ANILLO VIBRADOR DESECHABLE",
+    precioCosto: 690,
+    precio: 3000,
+    stock: 1,
+    descripcion:
+      "Siente el placer como nunca antes, con el anillo vibrador desechable vas a disfrutar de muchas sensaciones diferentes mientras practicas sexo con tu amante, puedes tener una erección del pene mucho más potente y duradera a la vez que estimulas el clítoris de ella con la placentera vibración.",
+    caracteristicas:
+      "Para una buena experiencia de uso, solo debes estar erecto, aplicar lubricante y poner el anillo en la base del pene. Utilizar por un máximo de 20 min por acto sexual. Este ayudará a mantener una buena erección durante el acto y a retardar un poco la eyaculación. Recomendamos rebajar el vello para evitar incomodidad en el uso Observaciones: Anillo desechable. Batería dura 30 minutos de forma continua. Limpiar antes y después de utilizar, con agua tibia y jabón neutro. Guardar en un sitio limpio y seco, sin mezclar con otros juguetes. Usar con lubricante a base de agua y/o con preservativo. Libre de Ftalatos No mojar ni sumergir las partes eléctricas.",
     sale: "false",
-    descuento: "0",
-    categoria: "scifi",
-    tags: "book",
-    creado: "20-05-2024",
-    modificado: "20-05-2024",
+    descuento: 0,
+    categoria: ["anillo", "para ambos", "vibrador"],
+    tags: ["anillo vibrador", "anillo"],
+  },
+  {
+    id: 6,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687266/proyects/VibeSex/products/bola-china-sexual-balls_u7sieg.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687266/proyects/VibeSex/products/bola-china-sexual-balls_u7sieg.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687266/proyects/VibeSex/products/bola-china-sexual-balls_u7sieg.jpg",
+    ],
+    nombre: "BOLA CHINA TRIPLE BALLS",
+    precioCosto: 2990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Si quieres mantener los músculos de la vagina fuertes y saludables estas bolas chinas son el juguete que te estimulará durante todo el día. Simplemente inserte las bolas dentro de la vagina y deje el cordón visible fuera de su cuerpo para que pueda quitarlas fácilmente, a medida que su cuerpo se mueve a lo largo del tiempo que usa estas bolas, las bolas más pequeñas dentro de cada bola de Kegel se moverán y crearán sensaciones de golpe, causando espasmos musculares y estimulaciones hacia todo el piso pelvico. Estas contracciones musculares trabajarán para estimular sus paredes internas, al tiempo que les brindan un ejercicio increíble. Combina tu placer con un entrenamiento efectivo cuando utilizas estas increíbles bolas. Bolas chinas económicas para trabajar los músculos de la vagina y estimular tu sexualidad.",
+    caracteristicas:
+      "Características: Bolas chinas eróticas, Inserción vaginal, Pesas internas, 3 Bolas de ABS, Color: Fucsia, Seguro al cuerpo, Libre de Ftalatos Medidas: Diámetro 3,5 cm",
+    sale: "true",
+    descuento: 0,
+    categoria: ["bolas chinas", "mujer"],
+    tags: ["bolas china"],
+  },
+  {
+    id: 7,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+    ],
+    nombre: "ESTIMULADOR DE PROSTATA VIBRACION",
+    precioCosto: 5990,
+    precio: 20000,
+    stock: 1,
+    descripcion:
+      "Estimulador de Prostata Vibracion ¿QUÉ ES? Es un novedoso y exclusivo juguete sexual ideal para aquellos que se plantean probar las delicias del sexo anal por vez primera. Atrévete a sumergirte en el increíble y voluptuoso mundo del goce de la “puerta trasera”, con este estimulador diseñado para que experimentes todas las sensaciones posibles: el estimulador consta de un eje bulboso con la curvatura adecuada para alcanzar el famoso punto “P” (la próstata), en la base posee una serie de protuberancias que masajean el perineo, el ángulo entre ambas partes te asegura una sujeción perfecta y segura y las vibraciones de su potente motor magnifican el placer de tus orgasmos. En el extremo del estimulador se encuentra el botón que enciende y apaga las trepidaciones.",
+    caracteristicas:
+      "ESTIMULADOR DE PROSTATA VIBRACION está confeccionado con silicona Elite, no contiene ftalatos, es hipo alergénica, tiene un tacto suave y sensual y no incluye la pila triple A que necesita para funcionar (encuéntrala en nuestro apartado “pilas”). Lubrícalo bien antes de usarlo y luego lávalo con toy Cleaner y enjuágalo con agua tibia. Medidas: longitud insertable 9.5 cm y diámetro máximo 3 cm.",
+    sale: "true",
+    descuento: 0,
+    categoria: ["para ambos", "dilator", "vibrador"],
+    tags: ["estimulador de prostata", "dilatador anal", "vibrador"],
+  },
+  {
+    id: 8,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716687996/proyects/VibeSex/products/esposas-de-cuero-y-terciopelo-interior-bondage-negro-1_uj4m22.jpg",
+    ],
+    nombre: "ESPOSAS DE CUERO PELUDAS",
+    precioCosto: 3990,
+    precio: 12000,
+    stock: 1,
+    descripcion:
+      "Estas sensuales y provocativas Esposas de Cuero Peludas son el complemento ideal para tus juegos de sumisión. Colócale en las muñecas de tu amante estos increíbles puños confeccionados con vinilo de la más alta calidad y resistencia, de tacto aterciopelado y ajustes de metal, que al mismo tiempo resultan elegantes y cómodos.",
+    caracteristicas:
+      "Apuesta fuerte y juega duro con las Esposas de Cuero Peludas que gracias a su cierre de gran resistencia, lograrán que tu dominio sea completo y que tu sumiso no quiera ni pueda escapar de ti.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["para ambos", "mujer"],
+    tags: ["esposas", "BSDM"],
+  },
+  {
+    id: 9,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716688815/proyects/VibeSex/products/plug-anal-pon-pon_sjwwg5.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716688815/proyects/VibeSex/products/plug-anal-pon-pon_sjwwg5.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716688815/proyects/VibeSex/products/plug-anal-pon-pon_sjwwg5.jpg",
+    ],
+    nombre: "PLUG ANAL POM PON",
+    precioCosto: 3990,
+    precio: 12000,
+    stock: 1,
+    descripcion:
+      "El Plug anal pom pon es un dilatador anal de acero con un tierno Pom Pon en uno de sus extremos. Este popular y glamoroso diseño no sólo dilata la zona anal previo a la penetración sino que también es un atractivo visual a la hora de jugar.",
+    caracteristicas:
+      "Caractarísticas: – Materialidad: Metal. – Resistente al Agua y Sumergible. – Color del Pom Pon:segun stock disponible multicolor Medidas: – Largo Total: 6cm – Diámetro: 3cm Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
+    sale: "true",
+    descuento: 0,
+    categoria: ["dilatador", "para ambos"],
+    tags: ["dilatador anal", "pon pon", "cola"],
+  },
+  {
+    id: 10,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690088/proyects/VibeSex/products/masturbador-vagina_k1wb3k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690088/proyects/VibeSex/products/masturbador-vagina_k1wb3k.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690088/proyects/VibeSex/products/masturbador-vagina_k1wb3k.jpg",
+    ],
+    nombre: "Masturbador Vagina Realista Mini",
+    precioCosto: 4990,
+    precio: 12990,
+    stock: 1,
+    descripcion:
+      "El Masturbador Vagina Realista Mini, entrega mayor placer al momento de la masturbación, por su material realístico que es el Cyber Skin y por la textura interna que presenta, asemejando el interior de una mujer.",
+    caracteristicas:
+      "Material: Cyber Skin Largo total: 12.5 cm. Lago insertable: 12 cm Aprox. Color: Beige",
+    sale: "false",
+    descuento: 0,
+    categoria: ["hombre", " masturbador"],
+    tags: ["vagina", "masturbador"],
+  },
+  {
+    id: 11,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690691/proyects/VibeSex/products/enema-anal_cz8xbz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690691/proyects/VibeSex/products/enema-anal_cz8xbz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690691/proyects/VibeSex/products/enema-anal_cz8xbz.jpg",
+    ],
+    nombre: "Ducha Anal Mr Play",
+    precioCosto: 6990,
+    precio: 12990,
+    stock: 1,
+    descripcion:
+      "Ducha anal Mr Play XL es un enema para realizar lavados anales previos al acto sexual y así poder disfrutar sin pudores y solo entregarse al placer. Esta fabricado de goma de alta calidad y viene en un precioso color turquesa. Solo debes llenar la parte de silicona de la ducha con agua tibia e insertar la parte superior directamente en el ano, luego se presiona la base del enema para lanzar el agua y listo!",
+    caracteristicas:
+      "Material: Goma Color: Turquesa Reutilizable Resistente al agua /Sumergible Uso Unisex Capacidad: 310 Ml Super Potente Flexible Facil de usar",
+    sale: "false",
+    descuento: 0,
+    categoria: ["dilatador anal", "cosmetica", "para ambos"],
+    tags: ["ducha anal", "lavado anal", "enema"],
+  },
+  {
+    id: 12,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690912/proyects/VibeSex/products/ANILLO-COCK-RING_vxnli6.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690912/proyects/VibeSex/products/ANILLO-COCK-RING_vxnli6.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716690912/proyects/VibeSex/products/ANILLO-COCK-RING_vxnli6.jpg",
+    ],
+    nombre: "ANILLO-COCK-RING DOBLE",
+    precioCosto: 2990,
+    precio: 8000,
+    stock: 1,
+    descripcion:
+      "ANILLO-COCK-RING DOBLE Puedes usarlo como anillo doble para tener más tensión o lo puedes separar y compartirlo con tu pareja, Anillo Doble se recomienda para erecciones mas fuertes y duraderas.",
+    caracteristicas:
+      "Fabricado con silicona de gran calidad para garantizarte la máxima higiene y seguridad e hipoalergénica. Experimenta con Anillo Doble nuevas sensaciones y diviértete con tu amante del placer de tener un poderoso pene !",
+    sale: "false",
+    descuento: 0,
+    categoria: ["anillos", "hombre"],
+    tags: ["anillos", "anillo para el pene"],
+  },
+  {
+    id: 13,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691431/proyects/VibeSex/products/plug-anal-cola-de-zorro-negra_kulqbz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691431/proyects/VibeSex/products/plug-anal-cola-de-zorro-negra_kulqbz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691431/proyects/VibeSex/products/plug-anal-cola-de-zorro-negra_kulqbz.jpg",
+    ],
+    nombre: "PLUG COLA DE ZORRO NEGRA",
+    precioCosto: 5990,
+    precio: 15000,
+    stock: 1,
+    descripcion:
+      "El Plug anal de cola de zorro es un dilatador anal de acero con una tierna cola de zorro en uno de sus extremos. Este popular y glamoroso diseño no sólo dilata la zona anal previo a la penetración sino que también es un atractivo visual a la hora de jugar.",
+    caracteristicas:
+      "Caractarísticas: – Materialidad: Metal. – Color de la cola: segun stock disponible multicolor. Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["dilatador", "para ambos"],
+    tags: ["dilatador anal", "cola de zorro", "cola"],
+  },
+  {
+    id: 14,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691896/proyects/VibeSex/products/tenga_egg_huevo_masturbador_masculino_jkebxu.png",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691896/proyects/VibeSex/products/tenga_egg_huevo_masturbador_masculino_jkebxu.png",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716691896/proyects/VibeSex/products/tenga_egg_huevo_masturbador_masculino_jkebxu.png",
+    ],
+    nombre: "HUEVO TENGA EGG",
+    precioCosto: 2990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "¿Qué fue antes el huevo o la gallina? Nunca lo sabremos… Lo único que tenemos claro es que seguro que va a haber un antes y un después cuando pruebes el masturbador masculino Huevo Tenga Egg. Llevas mucho tiempo sirviéndote tú mismx y eres quien mejor sabe cómo, dónde y cuándo tocarte. Pero nunca te has planteado incrementar tu placer. ¿Para qué, si ya tengo suficiente? Conformarse está muy bien, pero conseguir el sobresaliente no es tan complicado con este juguete que intensificará tu placer en solitario. Cada uno de los 12 huevos desechables Tenga tiene una textura interior distinta diseñada especialmente para aportarte estimulaciones distintas y que te olvides de la textura de tu mano. Cuando pruebes el huevo Tenga, tu masturbación subirá de nivel y todo el mundo querrá saber cuál es la clave de tu felicidad.",
+    caracteristicas:
+      "Masturbador masculino de un solo uso. Incluye lubricante. 12 texturas interiores distintas. Ideal para llevarlo allá donde quieras. Elástico y adaptable a todos los tamaños. Superplacentero y estimulante. CÓMO SE UTILIZAN LOS HUEVOS MASTURBADORES TENGA Al abrir el cascarón del huevo verás que, al sacar el masturbador, encontrarás el lubricante que viene en el interior. Para que el uso del Tenga Egg sea suave y agradable, aplica el lubricante dentro del huevo y al introducir tu miembro en él, notarás como el material elastómero de este convierte el huevo en un juguete muy elástico y agradable. Con el masturbador masculino Tenga Egg de Tenga disfrutarás de ti mismx como nunca antes. ¡Huevos al poder!",
+    sale: "true",
+    descuento: 0,
+    categoria: ["masturbador", "hombre"],
+    tags: ["huevos tanga egg", "huevos", "huevos masturbador", "masturbador"],
+  },
+  {
+    id: 15,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716692442/proyects/VibeSex/products/Latigo-Primera-Vez_or4yri.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716692442/proyects/VibeSex/products/Latigo-Primera-Vez_or4yri.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716692442/proyects/VibeSex/products/Latigo-Primera-Vez_or4yri.jpg",
+    ],
+    nombre: "LATIGO PRIMERA VEZ ",
+    precioCosto: 5990,
+    precio: 12000,
+    stock: 1,
+    descripcion:
+      "El complemento perfecto para los que les gusta el juego duro. Una forma segura de demostrar quien es el que manda con este látigo para principiantes. Iniciarse en el mundo de la dominación con un producto de mucha calidad y seguro, fabricado por una de las marcas referentes en la temática bondage. Todo con la calidad a la que nos suelen tener acostumbrados los chicos de Fetish Fantasy.",
+    caracteristicas:
+      "Medidas del mango: 12 cm de largo Largo total aproximado: 64 cm Material: cuero sintético. Su mera presencia genera tal excitación que quien los prueba una vez, repite. La tentación de lo prohibido y la curiosa mezcla entre dolor y placer hacen de los azotadores, fustas y látigos sexuales un complemento imprescindible en las prácticas de BDSM.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["BDMS", "para ambos"],
+    tags: ["sadomasoquismo", "latigo", "sado"],
+  },
+  {
+    id: 16,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716693293/proyects/VibeSex/products/vibrador-newman_cjhvx3.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716693293/proyects/VibeSex/products/vibrador-newman_cjhvx3.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716693293/proyects/VibeSex/products/vibrador-newman_cjhvx3.jpg",
+    ],
+    nombre: "VIBRADOR ESTIMULADOR DE ClÍTORIS NEWMAN",
+    precioCosto: 8990,
+    precio: 20000,
+    stock: 1,
+    descripcion:
+      "Este hermoso conejo de silicona de succión violeta con 30 funciones de vibración es la nueva adición perfecta a tu armario de traviesos juguetes nocturnos. Masajea tu punto G con el eje curvo y la punta más gruesa para enviarte a un frenesí que te adormece y aprieta las sábanas. La suave silicona se sentirá sensacional contra tu piel, mientras que el estimulador de succión aumentará tu sensibilidad y creará deliciosos temblores en todo tu cuerpo. Al aumentar el flujo de sangre a su clítoris y labios, este bonito vibrador rosa aumentará su sensibilidad, lo que conducirá a orgasmos más intensos y placenteros.",
+    caracteristicas:
+      "Lo que tienes que saber de este producto Largo: 20cm. Diámetro: 3.8cm. Tipo de alimentación: pila. Cuenta con 30 modos de vibración.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["vibrador", "dildo", "mujer"],
+    tags: ["vibrador", "pretty love", "newman"],
+  },
+  {
+    id: 17,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694072/proyects/VibeSex/products/barbara-78_rxymlx.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694072/proyects/VibeSex/products/barbara-78_rxymlx.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694072/proyects/VibeSex/products/barbara-78_rxymlx.jpg",
+    ],
+    nombre: "DILDO BARBARA 7.8",
+    precioCosto: 14990,
+    precio: 14990,
+    stock: 1,
+    descripcion:
+      "Dildo Bárbara te acompañará en todas tus travesuras! ya sea a sol@s o junto a tu pareja. Es un juguetote muy fácil de usar con textura realista para mayor estimulación y es util para que lo uses en cualquier posición.",
+    caracteristicas:
+      "Textura realista. Flexible. Con ventosa para jugar sin manos. Se ajusta a tu arnés. Material: TPR A prueba de agua. Largo: 20 cm Ancho: 4,2 cm Color: Beige Ventosa adherente",
+    sale: "false",
+    descuento: 0,
+    categoria: ["dildo", "mujer"],
+    tags: ["dildo", "barbara 7.8", "barbara", "consolador"],
+  },
+  {
+    id: 18,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694696/proyects/VibeSex/products/funda-pene_aq1nlq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694696/proyects/VibeSex/products/funda-pene_aq1nlq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694696/proyects/VibeSex/products/funda-pene_aq1nlq.jpg",
+    ],
+    nombre: "FUNDA PENIS SLEEVE",
+    precioCosto: 3990,
+    precio: 8000,
+    stock: 1,
+    descripcion:
+      "¡Potencia y placer se unen con la funda para el pene! Diseñada para intensificar la experiencia sexual, esta funda está fabricada con silicona de alta calidad, que proporciona una sensación suave y realista al tacto. Su diseño ergonómico se adapta perfectamente a la forma natural del cuerpo masculino, ofreciendo comodidad y seguridad durante su uso. Con su textura única y detalles realistas, esta funda añade grosor y longitud a tu pene, aumentando el placer tanto para ti como para tu pareja. Además, cuenta con un anillo ajustable en la base que garantiza un ajuste perfecto y permite mantener la erección por más tiempo, prolongando así la experiencia sexual.",
+    caracteristicas:
+      "Entiendo. Aquí tienes características más generales: Material seguro y suave. Diseño ergonómico. Aumenta grosor y longitud. Fácil de usar y limpiar. Ajustable para diferentes tamaños. Textura realista para una experiencia placentera.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["para ambos", "fundas"],
+    tags: ["funda para el pene", "grande", "agrandador"],
+  },
+  {
+    id: 19,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716695341/proyects/VibeSex/products/dildo-vibrador-rockindong_uadujc.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716695341/proyects/VibeSex/products/dildo-vibrador-rockindong_uadujc.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716695341/proyects/VibeSex/products/dildo-vibrador-rockindong_uadujc.jpg",
+    ],
+    nombre: "DILDO VIBRADOR ROCKIN DONG",
+    precioCosto: 5990,
+    precio: 12990,
+    stock: 1,
+    descripcion:
+      "Para el máximo placer lo mejor es un vibrador realista. Este vibrador cuenta con un cuerpo venoso y un glande para que experimentes la satisfacción completa. Solo necesitarás 2 pilas para encender este poderoso vibrador. Cuenta con una base con un dial giratorio para que no tengas que hacer esfuerzos y sólo te concentres en disfrutar.",
+    caracteristicas: "Multi vibración 2 pilas AA Medidas: 21 cm x 4 cm",
+    sale: "false",
+    descuento: 0,
+    categoria: ["dildo", "vibrador", "mujer"],
+    tags: ["dildo vibrador", "dildo", "vibrador", " consolador"],
+  },
+  {
+    id: 20,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716696762/proyects/VibeSex/products/cartas-lets-fck_dexibp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716696762/proyects/VibeSex/products/cartas-lets-fck_dexibp.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716696762/proyects/VibeSex/products/cartas-lets-fck_dexibp.jpg",
+    ],
+    nombre: "JUEGO DE CARTAS LET´S F*CK!",
+    precioCosto: 3990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Kheper Games nos sorprende nuevamente con sus juegos seductores para parejas, en los que podrás descubrir nuevas prácticas sexuales, conocer los gustos sexuales de tu pareja, las fantasías eróticas y mucho más. El Juego de Cartas Let’s F*ck! de Kheper Games se puede jugar de 3 maneras diferentes y te brinda 250.000 formas de ganar! Está enfocado en posiciones sexuales, el cual consiste principalmente en realizar las pruebas eróticas que las cartas les irán indicando. El ideal es que cumplas tus fantasías sexuales junto a tu pareja El objetivo del Juego Juego Let’s F*ck! es que logres explorar otras prácticas sexuales junto a tu pareja e incorporar nuevas posiciones sexuales, brindándote como beneficio reinventar tu relación de pareja y satisfacer todas tus fantasías eróticas.",
+    caracteristicas:
+      "48 cartas let´s f*ck 4 cartas follar Wild y reglas de los tres juegos: Fortuna f*ck, Partido y F*ck, Y preguntas personales sobre el sexo Observaciones: Dirigido a parejas. El juego contiene las instrucciones de uso en Español, Inglés, Francés y Alemán.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["para ambos", "juego de salon"],
+    tags: [
+      "cartas",
+      "cartas sexuales",
+      "juegos",
+      "juegos sexuales",
+      "juegos de salon",
+    ],
+  },
+  {
+    id: 21,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716697449/proyects/VibeSex/products/preservativo-sensor-plus-magic_1_tt4ynw.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716697449/proyects/VibeSex/products/preservativo-sensor-plus-magic_1_tt4ynw.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716697449/proyects/VibeSex/products/preservativo-sensor-plus-magic_1_tt4ynw.jpg",
+    ],
+    nombre: "PRESERVATIVO-SENSOR-PLUS-MAGIC",
+    precioCosto: 990,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente.",
+    caracteristicas: "3 condones de latex lubricados",
+    sale: "true",
+    descuento: 10,
+    categoria: ["preservativos", "cosmetica", "hombre"],
+    tags: [
+      "condones",
+      "fluorecente",
+      "preservativos",
+      "lubricados",
+      "sensorplus",
+    ],
+  },
+  {
+    id: 22,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+    ],
+    nombre: "SENSOR PLUS EXTRA RESISTENTE CON NONOXYNOL -9",
+    precioCosto: 990,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
+    caracteristicas: "3 condones de latex lubricados",
+    sale: "true",
+    descuento: 10,
+    categoria: ["preservativos", "cosmetica", "hombre"],
+    tags: [
+      "condones",
+      "extra resistente",
+      "preservativos",
+      "lubricados",
+      "sensorplus",
+    ],
+  },
+  {
+    id: 23,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698073/proyects/VibeSex/products/SENSOR-EXTRA-RESISTENTE-NONOXINOL_gdxoat.jpg",
+    ],
+    nombre: "SENSOR PLUS EXTRA RESISTENTE CON NONOXYNOL -9",
+    precioCosto: 990,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
+    caracteristicas: "3 condones de latex lubricados",
+    sale: "true",
+    descuento: 10,
+    categoria: ["preservativos", "cosmetica", "hombre"],
+    tags: [
+      "condones",
+      "extra resistente",
+      "preservativos",
+      "lubricados",
+      "sensorplus",
+    ],
+  },
+  {
+    id: 24,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698382/proyects/VibeSex/products/sensor-threefeels_fu6pkq.jpg",
+    ],
+    nombre: "SENSOR PLUS THREE FEELS",
+    precioCosto: 990,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
+    caracteristicas: "3 condones de latex lubricados",
+    sale: "true",
+    descuento: 10,
+    categoria: ["preservativos", "cosmetica", "hombre"],
+    tags: [
+      "condones",
+      "three feels",
+      "preservativos",
+      "lubricados",
+      "sensorplus",
+    ],
+  },
+  {
+    id: 25,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698943/proyects/VibeSex/products/lubricante-duramas_fwlcwr.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698943/proyects/VibeSex/products/lubricante-duramas_fwlcwr.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716698943/proyects/VibeSex/products/lubricante-duramas_fwlcwr.jpg",
+    ],
+    nombre: "DURAMAS GEL RETARDANTE",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Lentamente con Duramas Gel Retardante. De acción rápida, funciona reduciendo su nivel de sensibilidad para que usted y su pareja puedan disfrutar de un juego prolongado y de placer. Actúa como un desensibilizador tópico temporal para reducir la sensibilidad. Ayuda a prevenir la eyaculación precoz para prolongar el placer. Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel. Intensidad de desensibilización media. Contenido : 50 ml. Este, es un producto para la eyaculación precoz que ayuda a incrementar el tiempo de la relación sexual y retrasar la eyaculación actuando en el centro de las emociones cerebrales. El tratamiento para la eyaculación precoz con Duramas Gel Retardante y no requiere receta ni prescripción médica. Duramas Gel Retardante:  para la eyaculación precoz",
+    caracteristicas:
+      "INGREDIENTES: L-ARGININA – AVENA SATIVA-EXTRACTO CANNABIS. Contenido :  50 ml Modo de uso: Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel y para tratamiento aplicación 3 veces al día por 3 meses. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 POMOS DURAMAS GEL RETARDANTE ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN ISP Y CON SUS REGISTROS SANITARIOS AL DÍA.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "retardante"],
+  },
+  {
+    id: 26,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699347/proyects/VibeSex/products/lubricante-mrthickdick_ua9djz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699347/proyects/VibeSex/products/lubricante-mrthickdick_ua9djz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699347/proyects/VibeSex/products/lubricante-mrthickdick_ua9djz.jpg",
+    ],
+    nombre: "GEL AGRANDAMIENTO MR THICK DICK",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Gel Agrandamiento Mr Thick Dick Es un producto natural que te hará que vuelvan esas erecciones fuertes y potentes. Mayor confianza en ti mismo, mayor rendimiento sexual y orgasmos increíbles.Gel Agrandamiento Mr Thick Dick no tiene efectos secundarios.",
+    caracteristicas:
+      "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Gel Agrandamiento aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: [
+      "gel",
+      "lubricante",
+      "a base de agua",
+      "lubricantes",
+      "agrandamiento",
+    ],
+  },
+  {
+    id: 27,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699913/proyects/VibeSex/products/lubricante-blackice_jh2tjn.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699913/proyects/VibeSex/products/lubricante-blackice_jh2tjn.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716699913/proyects/VibeSex/products/lubricante-blackice_jh2tjn.jpg",
+    ],
+    nombre: "LUBRICANTE BLACK ICE MOIST 4 EN 1",
+    precioCosto: 1990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Lubricante Intimo intensificador de placer, formulado para otorgar lubricación extra durante las relaciones sexuales.Hecho a base de agua y de lenta absorción.",
+    caracteristicas:
+      "Características:Contenido: 50 ml.Efecto frío Incoloro Sin Olor ,No mancha,Ingredientes:Pure Water,Silicone Oil,Glycerol, Hydroxyethyl Cellulose, Menthol, Others.Observaciones:Aplicar la cantidad suficiente sobre la zona a lubricar , soplar suavemente.Totalmente compatible con el uso de preservativos y juguetes eróticos.No utilizar en caso de alergia a alguno de sus componentes.IMPORTANTE:Los resultados dependerán del uso correcto del producto y del organismo de cada persona.Antes de usar un producto de cosmética erótica se recomienda revisar los componentes de este para evitar reacciones alérgicas.En caso de irritación suspender y consultar con su dermatólogo. Mantener fuera del alcance de los niños.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "frio"],
+  },
+  {
+    id: 28,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700940/proyects/VibeSex/products/lubricante-anal-lube_dh6pcz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700940/proyects/VibeSex/products/lubricante-anal-lube_dh6pcz.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700940/proyects/VibeSex/products/lubricante-anal-lube_dh6pcz.jpg",
+    ],
+    nombre: "LUBRICANTE DILATADOR ANAL",
+    precioCosto: 2790,
+    precio: 12000,
+    stock: 1,
+    descripcion:
+      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+    caracteristicas: "",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
+  },
+  {
+    id: 29,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700452/proyects/VibeSex/products/lubricante-anal-maxwidth_ebogm7.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700452/proyects/VibeSex/products/lubricante-anal-maxwidth_ebogm7.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716700452/proyects/VibeSex/products/lubricante-anal-maxwidth_ebogm7.jpg",
+    ],
+    nombre: "LUBRICANTE DILATADOR ANAL MAX WIDTH",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+    caracteristicas:
+      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
+  },
+  {
+    id: 30,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716702806/proyects/VibeSex/products/lubricante-neutro_wzxmwj.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716702806/proyects/VibeSex/products/lubricante-neutro_wzxmwj.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716702806/proyects/VibeSex/products/lubricante-neutro_wzxmwj.jpg",
+    ],
+    nombre: "LUBRICANTE SEXRAM NEUTRO",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion: "lubricante neutro, alta hidratación",
+    caracteristicas:
+      "Gel neutro, Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "neutro"],
+  },
+  {
+    id: 31,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716703380/proyects/VibeSex/products/lubricante-estrechante_lfwa3w.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716703380/proyects/VibeSex/products/lubricante-estrechante_lfwa3w.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716703380/proyects/VibeSex/products/lubricante-estrechante_lfwa3w.jpg",
+    ],
+    nombre: "VIRGIN LUBRICANTE ESTRECHANTE VAGINAL",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "En sexram contamos con todos los productos para cumplir todas tus fantasías y las de tu pareja! Por esto te presentamos el increíble Virgin lubricante estrechante vaginal, con la cual podrás disfrutar de un rejuvenecimiento vaginal y así poder sentir todos tus músculos vaginales mucho mas estrechos. Diseñadas en su totalidad para entregar conformidad! Le da a la vagina una lujuria juvenil y proporciona más fricción para que la penetración sea más agradable. Es muy importante destacar que este gran LUBRICANTE ESTRECHADOR VIRGIN, es totalmente resistente al agua y compatible con todo tipo de juguetes, si lo quieres utilizar para ti sola! CLARO que se puede! Solo debes comenzar a disfrutar del placer de la masturbación, como lo hacías antes!",
+    caracteristicas:
+      "Diseñado para intensificar el placer. Ayuda a restaurar las paredes vaginales a un grosor juvenil. Ayuda a las mujeres y parejas a disfrutar de la sensación de más fricción durante la penetración. Puede ayudar a que el sexo sea más cómodo. Hecho de ingredientes totalmente naturales que hidratan y protegen la piel sensible. Excelente para usar con bolas kegel. Use 1- 2 aplicaciones del gel en los primeros 3 a 8 cms. por dentro de la vagina 20 minutos antes de la penetración. No es para uso oral o anal. No utilizar durante el embarazo. Compatible con látex y juguetes para adultos.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "estrechante"],
+  },
+  {
+    id: 32,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704135/proyects/VibeSex/products/lubricante-menta_xgv23g.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704135/proyects/VibeSex/products/lubricante-menta_xgv23g.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704135/proyects/VibeSex/products/lubricante-menta_xgv23g.jpg",
+    ],
+    nombre: "LUBRICANTE CALOR SABOR MENTA 4 EN 1",
+    precioCosto: 1990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Lubricante Íntimo Efecto Calor y Sabor Delicioso gel lubricante comestible, para lubricación íntima o para lubricar tus juguetes. Este gel produce un efecto de calor al soplarlo cerca de la piel o con el roce de la penetración, su sabor es dulce como la menta, ideal para comerlo desde el cuerpo de tu pareja o para sexo oral.",
+    caracteristicas:
+      "También sirve como gel de masajes eróticos. Contenido 60 ml.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    tags: ["gel", "lubricante", "a base de agua", "lubricantes", "menta"],
+  },
+  {
+    id: 33,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704638/proyects/VibeSex/products/viagra-hombre_zrgg32.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704638/proyects/VibeSex/products/viagra-hombre_zrgg32.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716704638/proyects/VibeSex/products/viagra-hombre_zrgg32.jpg",
+    ],
+    nombre: "RHINO VIAGRA NATURAL LIQUIDO",
+    precioCosto: 1490,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "RHINO VIAGRA NATURAL LIQUIDO ES UN LIQUIDO A BASE DE HIERVAS NATURALES QUE SON VASODILATADORAS COMO L- ARGININA,GUARANA QUE TE PONDRAN DURO COMO UN RHINO,PRUEBA ESTE PODEROSO VIAGRA PARA TOMAR DIRECTAMENTE O MEZCLAR EN TU BEBIDA O TRAGO FAVORITO.",
+    caracteristicas: "envace de 30ml.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["cosmetica", "afrodisiaco y fermonas", "hombre"],
+    tags: ["afrodisiaco", "viagra", "natural"],
+  },
+  {
+    id: 34,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705103/proyects/VibeSex/products/viagra-hombre-mujer_forac2.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705103/proyects/VibeSex/products/viagra-hombre-mujer_forac2.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705103/proyects/VibeSex/products/viagra-hombre-mujer_forac2.jpg",
+    ],
+    nombre: "SEXSHOTS-VIAGRA-LIQUIDO-HOMBRE Y MUJER",
+    precioCosto: 1490,
+    precio: 5000,
+    stock: 1,
+    descripcion:
+      "SEX SHOTS ES UN POTENTE ESTIMULADOR DE LA LIBIDO Y DESEO SEXUAL TANTO MASCULINO COMO FEMENINO, POTENCIA LOS SENTIDOS Y LA SENSIBILIDAD DURANTE LAS RELACIONES ÍNTIMAS. SUS INGREDIENTES AUMENTAN EL RIEGO SANGUÍNEO EN LA ZONA GENITAL FAVORECIENDO LA ERECCIÓN DEL MIEMBRO MASCULINO Y PROPORCIONANDO MAYOR PLACER DURANTE EL COITO, AUMENTA LA POTENCIA Y LA RESISTENCIA SEXUAL. SEX SHOTS ES UN AFRODISÍACO Y COMO UNO DE LOS ESTIMULANTES MÁS POTENTES PARA FAVORECER LA SEXUALIDAD TANTO EN EL HOMBRE COMO EN LA MUJER.  ES UN PRODUCTO 100% NATURAL FORMULADO A BASE DE VITAMINAS Y AMINOÁCIDOS QUE POTENCIAN LOS SENTIDOS Y FAVORECEN LAS RESPUESTAS SEXUALES. SUS EFECTOS SE APRECIAN DE MANERA CASI INMEDIATA.",
+    caracteristicas: "envace de 30ml.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["cosmetica", "afrodisiaco y fermonas", "para ambos"],
+    tags: ["afrodisiaco", "viagra", "natural"],
+  },
+  {
+    id: 35,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705372/proyects/VibeSex/products/Titan-Gold-Gel-Lubricante-Masculino-1_k2z2r7.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705372/proyects/VibeSex/products/Titan-Gold-Gel-Lubricante-Masculino-1_k2z2r7.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716705372/proyects/VibeSex/products/Titan-Gold-Gel-Lubricante-Masculino-1_k2z2r7.jpg",
+    ],
+    nombre: "TITAN® GOLD GEL LUBRICANTE MASCULINO",
+    precioCosto: 2990,
+    precio: 12000,
+    stock: 1,
+    descripcion:
+      "Es un producto natural que te hará que vuelvan esas erecciones fuertes y potentes. Mayor confianza en ti mismo, mayor rendimiento sexual y orgasmos increíbles. Titan® Gold no tiene efectos secundarios.",
+    caracteristicas:
+      "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Titan® Gold aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricantes", "cosmeticos", "hombre"],
+    tags: ["lubricante", "titan gold"],
+  },
+  {
+    id: 36,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716706577/proyects/VibeSex/products/lubricante-de-sandia_ip00vv.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716706577/proyects/VibeSex/products/lubricante-de-sandia_ip00vv.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716706577/proyects/VibeSex/products/lubricante-de-sandia_ip00vv.jpg",
+    ],
+    nombre: "LUBRICANTE CALOR SABOR SANDIA 4 EN 1",
+    precioCosto: 1990,
+    precio: 10000,
+    stock: 1,
+    descripcion: "",
+    caracteristicas: "",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    tags: ["sabores", "sandia", "lubricantes"],
+  },
+  {
+    id: 37,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707035/proyects/VibeSex/products/lubricante-anal-hemp_urlyru.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707035/proyects/VibeSex/products/lubricante-anal-hemp_urlyru.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707035/proyects/VibeSex/products/lubricante-anal-hemp_urlyru.jpg",
+    ],
+    nombre: "LUBRICANTE DILATADOR ANAL HEMP",
+    precioCosto: 1790,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+    caracteristicas:
+      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    tags: ["anal", "hemp", "lubricantes", "cannabis"],
+  },
+  {
+    id: 38,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707682/proyects/VibeSex/products/lubricante-excitante-femenino_fq1qnt.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707682/proyects/VibeSex/products/lubricante-excitante-femenino_fq1qnt.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707682/proyects/VibeSex/products/lubricante-excitante-femenino_fq1qnt.jpg",
+    ],
+    nombre: "LUBRICANTE EXCITANTE FEMENINO",
+    precioCosto: 2790,
+    precio: 12000,
+    stock: 1,
+    descripcion: "lubricante excitante femenino",
+    caracteristicas: "envace de 50ml",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricante", "cosmeticos", "mujer"],
+    tags: ["vaginal", "lubricantes", "excitante"],
+  },
+  {
+    id: 39,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707963/proyects/VibeSex/products/lubricante-de-chocolate_hotvkq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707963/proyects/VibeSex/products/lubricante-de-chocolate_hotvkq.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716707963/proyects/VibeSex/products/lubricante-de-chocolate_hotvkq.jpg",
+    ],
+    nombre: "LUBRICANTE CHOCOLATE MOIST 4 EN 1",
+    precioCosto: 1990,
+    precio: 10000,
+    stock: 1,
+    descripcion:
+      "Lubricante chocolate moist 4 en 1 es un lubricante híbrido, formulado a base de agua que proporciona una lenta absorción. Posee un delicioso sabor y aroma a frutilla, ideal para practicar sexo oral. Su efecto calor encenderá cualquier encuentro incorporando un nuevo estímulo a los juegos previos, masturbación, sexo oral, anal o vaginal. No contiene azúcar, es de facil limpieza, no mancha y puede ser el complemento perfecto para un masaje localizado en cualquier zona erógena.",
+    caracteristicas:
+      "Características: Contenido:50 ml Sabor: Chocolate Aroma: Chocolate Efecto: Calor Modo de uso: Aplicar directo en la zona a lubricar o masajear (vulva, pene, pezones, etc) reaplicar de ser necesario.",
+    sale: "true",
+    descuento: 10,
+    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    tags: ["lubricantes", "sabores", "chocolate"],
+  },
+  {
+    id: 40,
+    imagen: [
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716708415/proyects/VibeSex/products/titan-gold_iuv7fk.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716708415/proyects/VibeSex/products/titan-gold_iuv7fk.jpg",
+      "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716708415/proyects/VibeSex/products/titan-gold_iuv7fk.jpg",
+    ],
+    nombre: "TITAN CAPS GOLD",
+    precioCosto: 7990,
+    precio: 15000,
+    stock: 1,
+    descripcion:
+      "Famoso complemento alimenticio Titan caps Gold que ayuda a los hombres a alcanzar máximo potencial sexual. Puede contribuir en la mejora del tamaño del miembro masculino y la mejora del rendimiento sexual. La composición de titancaps funciona directamente con los tejidos internos del pene, mejorando el riego sanguíneo y a su vez aumentando la calidad de las erecciones. Además, esta reforzado con el ingrediente secreto L-ARGININA, que esta indicado para el tratamiento de disfunción eréctil masculina. Esta se produce cuando un varón no puede obtener o mantener una erección firme, adecuada para una actividad sexual satisfactoria. Titan Caps Incrementa el grosor del pene en pocos meses y con resultados permanentes.",
+    caracteristicas:
+      "INGREDIENTES: L-ARGININA – HIERVA DEL CLAVO-MAGNESIO Y ZINC. Contenido :  20 capsulas Modo de uso: TOMAR 2 CAPSULAS 1 HORA ANTES DE UNA RELACION O PARA TRATAMIENTO 3 CAPSULAS DIARIAS. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 FRASCOS TITAN CAPS GOLD-AGRANDAMIENTO-PENE,PUEDE AUMENTAR DE 3 A 5 CM.TITAN CAPS GOLD ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN DEL SEREMI DE SALUD Y CON SUS REGISTROS SANITARIOS AL DÍA.",
+    sale: "false",
+    descuento: 0,
+    categoria: ["hombre", "capsulas"],
+    tags: ["pastillas", "capsulas", "potenciador sexual"],
   },
 ];
 
 export const inventario = [
   {
-    
     idProducto: "1",
     stockInicial: "10",
     stock: "10",
@@ -191,7 +832,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "2",
     stockInicial: "10",
     stock: "10",
@@ -200,7 +840,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "3",
     stockInicial: "10",
     stock: "10",
@@ -209,7 +848,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "4",
     stockInicial: "10",
     stock: "10",
@@ -218,7 +856,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "5",
     stockInicial: "10",
     stock: "10",
@@ -227,7 +864,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "6",
     stockInicial: "10",
     stock: "10",
@@ -236,7 +872,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "7",
     stockInicial: "10",
     stock: "10",
@@ -245,7 +880,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "8",
     stockInicial: "10",
     stock: "10",
@@ -254,7 +888,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "9",
     stockInicial: "10",
     stock: "10",
@@ -263,7 +896,6 @@ export const inventario = [
     modificado: "20-05-2024",
   },
   {
-    
     idProducto: "10",
     stockInicial: "10",
     stock: "10",

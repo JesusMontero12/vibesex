@@ -24,11 +24,13 @@ const Productos = ({
   formData,
   handleInputChange,
   transformarInput,
+  handleClick,
+  isLoading,
 }) => {
   return (
     <Tab.Container id="left-tabs-example" defaultActiveKey="VerProductos">
       <Row style={{ width: "100%" }}>
-        <Col sm={3} className="p-0" style={{ width: "15rem" }}>
+        <Col sm={2} className="p-0 m-0">
           <Nav variant="pills" className="flex-column">
             <Nav.Item>
               <Nav.Link eventKey="VerProductos" className="m-0 p-3 text-center">
@@ -45,17 +47,17 @@ const Productos = ({
             </Nav.Item>
           </Nav>
         </Col>
-        <Col sm={9}>
+        <Col sm={10}>
           {/* TODOS LOS TABS */}
           <Tab.Content>
             {/* CONTENIDO DEL TAB DE VER */}
             <Tab.Pane eventKey="VerProductos">
-              <Row className="mb-3 m-4">
+              <Row className="mb-3 m-2">
                 <h1 className="mb-3 p-2 text-center">Todos los productos</h1>
                 <Table responsive>
                   <thead>
                     <tr>
-                      <th>ID</th>
+                      <th className="visually-hidden">ID</th>
                       <th>IMAGEN</th>
                       <th>NOMBRE</th>
                       <th>COSTO</th>
@@ -88,7 +90,9 @@ const Productos = ({
                       }) => {
                         return (
                           <tr key={id}>
-                            <td>{id.substring(0, 2) + "..."}</td>
+                            <td className="visually-hidden">
+                              {id.substring(0, 2) + "..."}
+                            </td>
                             <td>
                               {modificar[id] ? (
                                 <Form.Control
@@ -118,7 +122,7 @@ const Productos = ({
                                   onChange={(e) => console.log(e.target.value)}
                                 />
                               ) : (
-                                nombre?.substring(0, 12) + "..."
+                                nombre?.substring(0, 6) + "..."
                               )}
                             </td>
                             <td>
@@ -237,7 +241,7 @@ const Productos = ({
                                   onChange={(e) => console.log(e.target.value)}
                                 />
                               ) : (
-                                tags[0]?.substring(0, 12) + "..."
+                                tags[0]?.substring(0, 5) + "..."
                               )}
                             </td>
                             <td>
@@ -452,9 +456,13 @@ const Productos = ({
                     </FloatingLabel>
                   </Form.Group>
                 </Row>
-
-                <Button variant="primary" type="submit">
-                  Publicar
+                <Button
+                  type="submit"
+                  variant="dark"
+                  disabled={isLoading}
+                  onClick={!isLoading ? handleClick : null}
+                >
+                  {isLoading ? "Cargando…" : "Publicar"}
                 </Button>
               </Form>
             </Tab.Pane>
