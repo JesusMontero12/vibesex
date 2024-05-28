@@ -14,9 +14,6 @@ const ProductoCardContainer = ({
   tags,
 }) => {
   const newNombre = nombre?.substring(0, 13) + "...";
-  const newPrecio = precio
-    ?.toLocaleString("es-ES", { minimumFractionDigits: 2 })
-    .replace(/\B(?=(\d{3})+(?!\d))/g, ".");
   const precioDesc =
     descuento > 0 ? (
       <span>

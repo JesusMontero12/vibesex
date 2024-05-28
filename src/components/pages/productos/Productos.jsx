@@ -91,7 +91,8 @@ const Productos = ({
                         return (
                           <tr key={id}>
                             <td className="visually-hidden">
-                              {id.substring(0, 2) + "..."}
+                              {id
+                              /* {id.substring(0, 2) + "..."} */}
                             </td>
                             <td>
                               {modificar[id] ? (

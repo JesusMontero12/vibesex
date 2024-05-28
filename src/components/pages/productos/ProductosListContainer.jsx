@@ -11,6 +11,7 @@ import {
 } from "firebase/firestore";
 import Productos from "./Productos.jsx";
 import Swal from "sweetalert2";
+import { productos } from "../../../data/productsMock.js";
 
 const ProductosListContainer = () => {
   const [isLoading, setIsLoading] = useState(false);
@@ -147,28 +148,40 @@ const ProductosListContainer = () => {
   };
 
   useEffect(() => {
-    const productsCollection = collection(db, "productos");
-    let consulta = productsCollection;
-    getDocs(consulta)
-      .then((res) => {
-        let newArray = res.docs.map((doc) => {
-          return { id: doc.id, ...doc.data() };
-        });
-        setItems(newArray);
-      })
-      .catch((error) => {
-        setError(error);
-      });
+    const getProducts = new Promise((resolve, reject) => {
+      let x = true;
+      if (x) {
+        setTimeout(() => {
+          resolve(productos);
+        }, 2000);
+      } else {
+        reject({ status: 400, message: "no estas autorizado" });
+      }
+    });
 
-    const promiseTimer = () => {
-      return new Promise((resolve) => setTimeout(resolve, 2000));
-    };
+    getProducts.then((res) => setItems(res)).catch((error) => setError(error));
+    // const productsCollection = collection(db, "productos");
+    // let consulta = productsCollection;
+    // getDocs(consulta)
+    //   .then((res) => {
+    //     let newArray = res.docs.map((doc) => {
+    //       return { id: doc.id, ...doc.data() };
+    //     });
+    //     setItems(newArray);
+    //   })
+    //   .catch((error) => {
+    //     setError(error);
+    //   });
 
-    if (isLoading) {
-      promiseTimer().then(() => {
-        setIsLoading(false);
-      });
-    }
+    // const promiseTimer = () => {
+    //   return new Promise((resolve) => setTimeout(resolve, 2000));
+    // };
+
+    // if (isLoading) {
+    //   promiseTimer().then(() => {
+    //     setIsLoading(false);
+    //   });
+    // }
   }, [items]);
   
   const handleClick = () => setIsLoading(true);

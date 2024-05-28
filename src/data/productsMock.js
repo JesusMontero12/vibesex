@@ -557,7 +557,8 @@ export let productos = [
     stock: 1,
     descripcion:
       "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
-    caracteristicas: "",
+    caracteristicas:
+      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 10,
     categoria: ["lubricantes", "cosmetica", "paraambos"],

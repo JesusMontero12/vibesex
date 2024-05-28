@@ -7,7 +7,6 @@ import {
   Placeholder,
   Row,
 } from "react-bootstrap";
-import { productos } from "../../../data/productsMock";
 import { Link } from "react-router-dom";
 import ProductoCardContainer from "../../common/productoCard/ProductoCardContainer";
 
