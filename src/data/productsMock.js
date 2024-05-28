@@ -8,7 +8,7 @@ export let productos = [
     ],
     nombre: "ENEMA ANAL DUCHA 160 ML",
     precioCosto: 3990,
-    precio: 2500,
+    precio: 9990,
     stock: 1,
     descripcion:
       "Enema anal ducha ¿QUÉ ES? No es un tema como para compartir con tu pareja porque, aunque tengáis mucha confianza, lo de las limpiezas anales corta un poco el rollo. Sin embargo, los accesorios de Ouch! tienen ese toque fashion que destierran por completo la imagen de la perilla clásica que utilizan los abuelos.Este limpiador anal negro tiene mucho glamur. Está fabricado en un material muy agradable al tacto y con una boquilla que entra cómodamente en el conducto del ano para facilitarte una limpieza profunda. Y lo más importante de todo, es un método muy efectivo de higienizar la zona antes de mantener relaciones con penetración anal",
