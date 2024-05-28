@@ -1,9 +1,17 @@
-import { Button, Card, Carousel, Col, Container, Row } from "react-bootstrap";
+import {
+  Button,
+  Card,
+  Carousel,
+  Col,
+  Container,
+  Placeholder,
+  Row,
+} from "react-bootstrap";
 import { productos } from "../../../data/productsMock";
 import { Link } from "react-router-dom";
 import ProductoCardContainer from "../../common/productoCard/ProductoCardContainer";
 
-const CatalogoList = () => {
+const CatalogoList = ({ items, error }) => {
   return (
     <>
       <Container fluid className="m-0 p-0 bg-secondary">
@@ -21,7 +29,7 @@ const CatalogoList = () => {
               <Row>
                 <Col className="d-flex flex-row justify-content-center text-center">
                   <Link
-                    to={`/categoria/paraambos`}
+                    to={`/filtros/paraambos`}
                     className="text-decoration-none"
                   >
                     <Card style={{ width: "6rem", height: "6rem" }}>
@@ -31,7 +39,7 @@ const CatalogoList = () => {
                           src="https://res.cloudinary.com/dqngvzxqy/image/upload/v1716765521/proyects/VibeSex/icons/simbolos-masculinos-y-femeninos_op7uya.png"
                         />
                         <Card.Text
-                          className="text-center text-secondary "
+                          className="text-center text-secondary pt-2"
                           style={{
                             fontSize: "10px",
                             fontWeight: "600",
@@ -44,10 +52,7 @@ const CatalogoList = () => {
                   </Link>
                 </Col>
                 <Col className="d-flex flex-row justify-content-center text-center">
-                  <Link
-                    to={`/categoria/hombre`}
-                    className="text-decoration-none"
-                  >
+                  <Link to={`/filtros/hombre`} className="text-decoration-none">
                     <Card style={{ width: "6rem", height: "6rem" }}>
                       <Card.Body>
                         <Card.Img
@@ -55,7 +60,7 @@ const CatalogoList = () => {
                           src="https://res.cloudinary.com/dqngvzxqy/image/upload/v1716765521/proyects/VibeSex/icons/genero-masculino_q9iixw.png"
                         />
                         <Card.Text
-                          className="text-center text-secondary "
+                          className="text-center text-secondary pt-2"
                           style={{
                             fontSize: "10px",
                             fontWeight: "600",
@@ -68,10 +73,7 @@ const CatalogoList = () => {
                   </Link>
                 </Col>
                 <Col className="d-flex flex-row justify-content-center text-center">
-                  <Link
-                    to={`/categoria/mujer`}
-                    className="text-decoration-none"
-                  >
+                  <Link to={`/filtros/mujer`} className="text-decoration-none">
                     <Card style={{ width: "6rem", height: "6rem" }}>
                       <Card.Body>
                         <Card.Img
@@ -79,7 +81,7 @@ const CatalogoList = () => {
                           src="https://res.cloudinary.com/dqngvzxqy/image/upload/v1716765521/proyects/VibeSex/icons/hembra_gycft2.png"
                         />
                         <Card.Text
-                          className="text-center text-secondary "
+                          className="text-center text-secondary pt-2"
                           style={{
                             fontSize: "10px",
                             fontWeight: "600",
@@ -100,9 +102,54 @@ const CatalogoList = () => {
             </p>
             <Container fluid>
               <Row>
-                {productos.length > 0 ? (
-                  productos.map(
-                    ({ id, imagen, nombre, precio, descripcion, stock }) => {
+                {items.map(
+                  ({
+                    id,
+                    imagen,
+                    nombre,
+                    precio,
+                    descripcion,
+                    stock,
+                    sale,
+                    descuento,
+                    categoria,
+                    tags,
+                  }) => {
+                    return (
+                      <Col
+                        key={id}
+                        className="d-flex flex-row justify-content-center"
+                      >
+                        <ProductoCardContainer
+                          id={id}
+                          imagen={imagen}
+                          nombre={nombre}
+                          precio={precio}
+                          descripcion={descripcion}
+                          stock={stock}
+                          sale={sale}
+                          descuento={descuento}
+                          categoria={categoria}
+                          tags={tags}
+                        />
+                      </Col>
+                    );
+                  }
+                )}
+                {/* {items.length > 0 ? (
+                  items.map(
+                    ({
+                      id,
+                      imagen,
+                      nombre,
+                      precio,
+                      descripcion,
+                      stock,
+                      sale,
+                      descuento,
+                      categoria,
+                      tags,
+                    }) => {
                       return (
                         <Col
                           key={id}
@@ -115,6 +162,10 @@ const CatalogoList = () => {
                             precio={precio}
                             descripcion={descripcion}
                             stock={stock}
+                            sale={sale}
+                            descuento={descuento}
+                            categoria={categoria}
+                            tags={tags}
                           />
                         </Col>
                       );
@@ -135,7 +186,7 @@ const CatalogoList = () => {
                       <Placeholder.Button variant="primary" xs={6} />
                     </Card.Body>
                   </Card>
-                )}
+                )} */}
               </Row>
             </Container>
           </Col>

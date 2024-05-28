@@ -1,7 +1,18 @@
-import { Card, Carousel } from "react-bootstrap";
+import { Badge, Card, Carousel } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-const ProductoCard = ({ id, imagen, nombre, precio, descripcion, stock }) => {
+const ProductoCard = ({
+  id,
+  imagen,
+  nombre,
+  precio,
+  descripcion,
+  stock,
+  sale,
+  descuento,
+  categoria,
+  tags,
+}) => {
   return (
     <Card
       className="m-1 d-flex flex-column"
@@ -28,6 +39,7 @@ const ProductoCard = ({ id, imagen, nombre, precio, descripcion, stock }) => {
               key={index}
               style={{ width: "15rem", height: "15rem" }}
             >
+              <span className="position-absolute">{sale}</span>
               <Card.Img
                 className="d-block w-100"
                 variant="top"
@@ -46,21 +58,30 @@ const ProductoCard = ({ id, imagen, nombre, precio, descripcion, stock }) => {
 
       <Card.Body className="m-0 p-0">
         <Card.Title
-          style={{ fontWeight: "600" }}
-          className="fs-6 m-1 text-dark"
+          style={{ fontWeight: "600", fontFamily: "arimo", fontSize: "18px" }}
+          className="my-1 text-dark"
         >
-          {nombre?.substring(0, 18) + "..."}
+          <span>
+            {nombre}
+            {"  "}
+            {descuento}
+          </span>
         </Card.Title>
-        <Card.Text className="fs-6 m-0 p-0 text-secondary">
-          {descripcion ? descripcion.substring(0, 22) + "..." : <br />}
+        <Card.Text
+          className="fs-6 m-0 p-0 text-secondary text-left"
+          style={{ fontFamily: "arimo", fontSize: "1rem" }}
+        >
+          {descripcion}
         </Card.Text>
         <Card.Text
-          style={{ fontWeight: "600" }}
-          className="fs-6 m-0 p-0 text-dark"
+          style={{
+            fontWeight: "600",
+            fontFamily: "montserrat",
+            fontSize: "1rem",
+          }}
+          className="m-0 p-0 text-dark"
         >
-          {precio
-            ?.toLocaleString("es-ES", { minimumFractionDigits: 2 })
-            .replace(/\B(?=(\d{3})+(?!\d))/g, ".")}
+          {precio}
         </Card.Text>
       </Card.Body>
       <Card.Body className="text-center">

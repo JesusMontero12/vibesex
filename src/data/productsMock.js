@@ -16,7 +16,7 @@ export let productos = [
       "IMPORTANTE: No retires el pequeño papel plástico que viene al interior del juguete, donde van ubicadas las pilas. Es una parte del producto. Si lo sacas, el juguete no funcionará correctamente. ¡No lo olvides! Lava tu juguete antes y después de cada uso con TOY CLEANER Usa lubricante en base de agua con tus juguetes. Todos nuestros juguetes son de materiales hipoalergénicos. Se lavan con agua tibia, un jabón neutro y nada más. Seca bien el juguete después de lavarlo y guárdalo en un lugar seco. No guardes tus juguetes en bolsas plásticas. No es necesario usar un preservativo con tu juguete, pero ayuda a facilitar la limpieza.",
     sale: "false",
     descuento: 0,
-    categoria: ["dilatador anal", "cosmetica", "para ambos"],
+    categoria: ["dilatador anal", "cosmetica", "paraambos"],
     tags: ["ducha anal", "lavado anal", "enema"],
   },
   {
@@ -30,7 +30,8 @@ export let productos = [
     precioCosto: 13990,
     precio: 30000,
     stock: 1,
-    descripcion: "",
+    descripcion:
+      "BAILE BW-037037. Este cono de vibración cuenta con un innovador eje de empuje. También tiene picos retorcidos y hermosas crestas. Elige entre 4 velocidades de impulso y giro. El estimulador de clítoris con forma de polilla presenta 12 funciones de vibración con motores potentes y silenciosos, con un enchufe USB que se puede recargar directamente para un placer sin fin. En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer. Para tener una experiencia agradable y única solo debes complementarlo con uno de nuestros excelentes lubricantes o estimuladores y comenzar a gozar!",
     caracteristicas:
       "ROTADOR MARIPOSA USB SUBE Y BAJA BAILE BW-037037 Este cono de vibración cuenta con un innovador eje de empuje. También tiene picos retorcidos y hermosas crestas. Elige entre 4 velocidades de impulso y giro. El estimulador de clítoris con forma de polilla presenta 12 funciones de vibración con motores potentes y silenciosos, con un enchufe USB que se puede recargar directamente para un placer sin fin. En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer.",
     sale: "true",
@@ -55,7 +56,7 @@ export let productos = [
       "Recomendaciones: Lávalo antes y después de utilizarlo con agua tibia y jabón. Si es de uso personal con tu pareja, no necesitas preservativo para utilizarlo. Siempre guárdalo seco y en un lugar sin humedad. Puedes utilizarlo donde quieras! Debajo del agua! Siempre debes guardarlo limpio con Toy cleaner",
     sale: "true",
     descuento: 0,
-    categoria: ["vibrador", "anillo", "para ambos"],
+    categoria: ["vibrador", "anillo", "paraambos"],
     tags: ["anillo vibrador", "anillo"],
   },
   {
@@ -74,7 +75,7 @@ export let productos = [
     caracteristicas: "COLOR SEGUN STOCK EN TIENDA",
     sale: "true",
     descuento: 0,
-    categoria: ["para ambos", "mujer"],
+    categoria: ["paraambos", "mujer"],
     tags: ["esposas", "BSDM"],
   },
   {
@@ -94,7 +95,7 @@ export let productos = [
       "Para una buena experiencia de uso, solo debes estar erecto, aplicar lubricante y poner el anillo en la base del pene. Utilizar por un máximo de 20 min por acto sexual. Este ayudará a mantener una buena erección durante el acto y a retardar un poco la eyaculación. Recomendamos rebajar el vello para evitar incomodidad en el uso Observaciones: Anillo desechable. Batería dura 30 minutos de forma continua. Limpiar antes y después de utilizar, con agua tibia y jabón neutro. Guardar en un sitio limpio y seco, sin mezclar con otros juguetes. Usar con lubricante a base de agua y/o con preservativo. Libre de Ftalatos No mojar ni sumergir las partes eléctricas.",
     sale: "false",
     descuento: 0,
-    categoria: ["anillo", "para ambos", "vibrador"],
+    categoria: ["anillo", "paraambos", "vibrador"],
     tags: ["anillo vibrador", "anillo"],
   },
   {
@@ -134,7 +135,7 @@ export let productos = [
       "ESTIMULADOR DE PROSTATA VIBRACION está confeccionado con silicona Elite, no contiene ftalatos, es hipo alergénica, tiene un tacto suave y sensual y no incluye la pila triple A que necesita para funcionar (encuéntrala en nuestro apartado “pilas”). Lubrícalo bien antes de usarlo y luego lávalo con toy Cleaner y enjuágalo con agua tibia. Medidas: longitud insertable 9.5 cm y diámetro máximo 3 cm.",
     sale: "true",
     descuento: 0,
-    categoria: ["para ambos", "dilator", "vibrador"],
+    categoria: ["paraambos", "dilator", "vibrador"],
     tags: ["estimulador de prostata", "dilatador anal", "vibrador"],
   },
   {
@@ -154,7 +155,7 @@ export let productos = [
       "Apuesta fuerte y juega duro con las Esposas de Cuero Peludas que gracias a su cierre de gran resistencia, lograrán que tu dominio sea completo y que tu sumiso no quiera ni pueda escapar de ti.",
     sale: "false",
     descuento: 0,
-    categoria: ["para ambos", "mujer"],
+    categoria: ["paraambos", "mujer"],
     tags: ["esposas", "BSDM"],
   },
   {
@@ -174,7 +175,7 @@ export let productos = [
       "Caractarísticas: – Materialidad: Metal. – Resistente al Agua y Sumergible. – Color del Pom Pon:segun stock disponible multicolor Medidas: – Largo Total: 6cm – Diámetro: 3cm Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
     sale: "true",
     descuento: 0,
-    categoria: ["dilatador", "para ambos"],
+    categoria: ["dilatador", "paraambos"],
     tags: ["dilatador anal", "pon pon", "cola"],
   },
   {
@@ -214,7 +215,7 @@ export let productos = [
       "Material: Goma Color: Turquesa Reutilizable Resistente al agua /Sumergible Uso Unisex Capacidad: 310 Ml Super Potente Flexible Facil de usar",
     sale: "false",
     descuento: 0,
-    categoria: ["dilatador anal", "cosmetica", "para ambos"],
+    categoria: ["dilatador anal", "cosmetica", "paraambos"],
     tags: ["ducha anal", "lavado anal", "enema"],
   },
   {
@@ -254,7 +255,7 @@ export let productos = [
       "Caractarísticas: – Materialidad: Metal. – Color de la cola: segun stock disponible multicolor. Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
     sale: "false",
     descuento: 0,
-    categoria: ["dilatador", "para ambos"],
+    categoria: ["dilatador", "paraambos"],
     tags: ["dilatador anal", "cola de zorro", "cola"],
   },
   {
@@ -294,7 +295,7 @@ export let productos = [
       "Medidas del mango: 12 cm de largo Largo total aproximado: 64 cm Material: cuero sintético. Su mera presencia genera tal excitación que quien los prueba una vez, repite. La tentación de lo prohibido y la curiosa mezcla entre dolor y placer hacen de los azotadores, fustas y látigos sexuales un complemento imprescindible en las prácticas de BDSM.",
     sale: "false",
     descuento: 0,
-    categoria: ["BDMS", "para ambos"],
+    categoria: ["BDMS", "paraambos"],
     tags: ["sadomasoquismo", "latigo", "sado"],
   },
   {
@@ -354,7 +355,7 @@ export let productos = [
       "Entiendo. Aquí tienes características más generales: Material seguro y suave. Diseño ergonómico. Aumenta grosor y longitud. Fácil de usar y limpiar. Ajustable para diferentes tamaños. Textura realista para una experiencia placentera.",
     sale: "false",
     descuento: 0,
-    categoria: ["para ambos", "fundas"],
+    categoria: ["paraambos", "fundas"],
     tags: ["funda para el pene", "grande", "agrandador"],
   },
   {
@@ -393,7 +394,7 @@ export let productos = [
       "48 cartas let´s f*ck 4 cartas follar Wild y reglas de los tres juegos: Fortuna f*ck, Partido y F*ck, Y preguntas personales sobre el sexo Observaciones: Dirigido a parejas. El juego contiene las instrucciones de uso en Español, Inglés, Francés y Alemán.",
     sale: "false",
     descuento: 0,
-    categoria: ["para ambos", "juego de salon"],
+    categoria: ["paraambos", "juego de salon"],
     tags: [
       "cartas",
       "cartas sexuales",
@@ -494,7 +495,7 @@ export let productos = [
       "INGREDIENTES: L-ARGININA – AVENA SATIVA-EXTRACTO CANNABIS. Contenido :  50 ml Modo de uso: Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel y para tratamiento aplicación 3 veces al día por 3 meses. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 POMOS DURAMAS GEL RETARDANTE ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN ISP Y CON SUS REGISTROS SANITARIOS AL DÍA.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "retardante"],
   },
   {
@@ -514,7 +515,7 @@ export let productos = [
       "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Gel Agrandamiento aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: [
       "gel",
       "lubricante",
@@ -540,7 +541,7 @@ export let productos = [
       "Características:Contenido: 50 ml.Efecto frío Incoloro Sin Olor ,No mancha,Ingredientes:Pure Water,Silicone Oil,Glycerol, Hydroxyethyl Cellulose, Menthol, Others.Observaciones:Aplicar la cantidad suficiente sobre la zona a lubricar , soplar suavemente.Totalmente compatible con el uso de preservativos y juguetes eróticos.No utilizar en caso de alergia a alguno de sus componentes.IMPORTANTE:Los resultados dependerán del uso correcto del producto y del organismo de cada persona.Antes de usar un producto de cosmética erótica se recomienda revisar los componentes de este para evitar reacciones alérgicas.En caso de irritación suspender y consultar con su dermatólogo. Mantener fuera del alcance de los niños.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "frio"],
   },
   {
@@ -559,7 +560,7 @@ export let productos = [
     caracteristicas: "",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
   {
@@ -579,7 +580,7 @@ export let productos = [
       "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
   {
@@ -598,7 +599,7 @@ export let productos = [
       "Gel neutro, Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "neutro"],
   },
   {
@@ -618,7 +619,7 @@ export let productos = [
       "Diseñado para intensificar el placer. Ayuda a restaurar las paredes vaginales a un grosor juvenil. Ayuda a las mujeres y parejas a disfrutar de la sensación de más fricción durante la penetración. Puede ayudar a que el sexo sea más cómodo. Hecho de ingredientes totalmente naturales que hidratan y protegen la piel sensible. Excelente para usar con bolas kegel. Use 1- 2 aplicaciones del gel en los primeros 3 a 8 cms. por dentro de la vagina 20 minutos antes de la penetración. No es para uso oral o anal. No utilizar durante el embarazo. Compatible con látex y juguetes para adultos.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "estrechante"],
   },
   {
@@ -638,7 +639,7 @@ export let productos = [
       "También sirve como gel de masajes eróticos. Contenido 60 ml.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricantes", "cosmetica", "para ambos"],
+    categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "menta"],
   },
   {
@@ -676,7 +677,7 @@ export let productos = [
     caracteristicas: "envace de 30ml.",
     sale: "false",
     descuento: 0,
-    categoria: ["cosmetica", "afrodisiaco y fermonas", "para ambos"],
+    categoria: ["cosmetica", "afrodisiaco y fermonas", "paraambos"],
     tags: ["afrodisiaco", "viagra", "natural"],
   },
   {
@@ -710,11 +711,13 @@ export let productos = [
     precioCosto: 1990,
     precio: 10000,
     stock: 1,
-    descripcion: "",
-    caracteristicas: "",
+    descripcion:
+      "LUBRICANTE CALOR SABOR SANDIA Lubricante Íntimo Efecto Calor y Sabor. Delicioso gel lubricante comestible, para lubricación íntima o para lubricar tus juguetes. Este gel produce un efecto de calor al soplarlo cerca de la piel o con el roce de la penetración, su sabor es dulce como el chocolate, ideal para comerlo desde el cuerpo de tu pareja o para sexo oral.",
+    caracteristicas:
+      "TAMBIÉN SIRVE COMO GEL DE MASAJES ERÓTICOS. Contenido 60 ml.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["sabores", "sandia", "lubricantes"],
   },
   {
@@ -734,7 +737,7 @@ export let productos = [
       "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["anal", "hemp", "lubricantes", "cannabis"],
   },
   {
@@ -772,7 +775,7 @@ export let productos = [
       "Características: Contenido:50 ml Sabor: Chocolate Aroma: Chocolate Efecto: Calor Modo de uso: Aplicar directo en la zona a lubricar o masajear (vulva, pene, pezones, etc) reaplicar de ser necesario.",
     sale: "true",
     descuento: 10,
-    categoria: ["lubricante", "cosmeticos", "para ambos"],
+    categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["lubricantes", "sabores", "chocolate"],
   },
   {
