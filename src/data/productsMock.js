@@ -418,7 +418,7 @@ export let productos = [
       "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente.",
     caracteristicas: "3 condones de latex lubricados",
     sale: "true",
-    descuento: 10,
+    descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
     tags: [
       "condones",
@@ -443,7 +443,7 @@ export let productos = [
       "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
     caracteristicas: "3 condones de latex lubricados",
     sale: "true",
-    descuento: 10,
+    descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
     tags: [
       "condones",
@@ -468,7 +468,7 @@ export let productos = [
       "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
     caracteristicas: "3 condones de latex lubricados",
     sale: "true",
-    descuento: 10,
+    descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
     tags: [
       "condones",
@@ -494,7 +494,7 @@ export let productos = [
     caracteristicas:
       "INGREDIENTES: L-ARGININA – AVENA SATIVA-EXTRACTO CANNABIS. Contenido :  50 ml Modo de uso: Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel y para tratamiento aplicación 3 veces al día por 3 meses. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 POMOS DURAMAS GEL RETARDANTE ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN ISP Y CON SUS REGISTROS SANITARIOS AL DÍA.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "retardante"],
   },
@@ -514,7 +514,7 @@ export let productos = [
     caracteristicas:
       "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Gel Agrandamiento aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: [
       "gel",
@@ -540,7 +540,7 @@ export let productos = [
     caracteristicas:
       "Características:Contenido: 50 ml.Efecto frío Incoloro Sin Olor ,No mancha,Ingredientes:Pure Water,Silicone Oil,Glycerol, Hydroxyethyl Cellulose, Menthol, Others.Observaciones:Aplicar la cantidad suficiente sobre la zona a lubricar , soplar suavemente.Totalmente compatible con el uso de preservativos y juguetes eróticos.No utilizar en caso de alergia a alguno de sus componentes.IMPORTANTE:Los resultados dependerán del uso correcto del producto y del organismo de cada persona.Antes de usar un producto de cosmética erótica se recomienda revisar los componentes de este para evitar reacciones alérgicas.En caso de irritación suspender y consultar con su dermatólogo. Mantener fuera del alcance de los niños.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "frio"],
   },
@@ -560,7 +560,7 @@ export let productos = [
     caracteristicas:
       "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 25,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
@@ -580,7 +580,7 @@ export let productos = [
     caracteristicas:
       "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "anal"],
   },
@@ -599,7 +599,7 @@ export let productos = [
     caracteristicas:
       "Gel neutro, Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "neutro"],
   },
@@ -619,7 +619,7 @@ export let productos = [
     caracteristicas:
       "Diseñado para intensificar el placer. Ayuda a restaurar las paredes vaginales a un grosor juvenil. Ayuda a las mujeres y parejas a disfrutar de la sensación de más fricción durante la penetración. Puede ayudar a que el sexo sea más cómodo. Hecho de ingredientes totalmente naturales que hidratan y protegen la piel sensible. Excelente para usar con bolas kegel. Use 1- 2 aplicaciones del gel en los primeros 3 a 8 cms. por dentro de la vagina 20 minutos antes de la penetración. No es para uso oral o anal. No utilizar durante el embarazo. Compatible con látex y juguetes para adultos.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "estrechante"],
   },
@@ -639,7 +639,7 @@ export let productos = [
     caracteristicas:
       "También sirve como gel de masajes eróticos. Contenido 60 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
     tags: ["gel", "lubricante", "a base de agua", "lubricantes", "menta"],
   },
@@ -697,7 +697,7 @@ export let productos = [
     caracteristicas:
       "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Titan® Gold aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
     sale: "true",
-    descuento: 10,
+    descuento: 25,
     categoria: ["lubricantes", "cosmeticos", "hombre"],
     tags: ["lubricante", "titan gold"],
   },
@@ -717,7 +717,7 @@ export let productos = [
     caracteristicas:
       "TAMBIÉN SIRVE COMO GEL DE MASAJES ERÓTICOS. Contenido 60 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["sabores", "sandia", "lubricantes"],
   },
@@ -737,7 +737,7 @@ export let productos = [
     caracteristicas:
       "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["anal", "hemp", "lubricantes", "cannabis"],
   },
@@ -755,7 +755,7 @@ export let productos = [
     descripcion: "lubricante excitante femenino",
     caracteristicas: "envace de 50ml",
     sale: "true",
-    descuento: 10,
+    descuento: 25,
     categoria: ["lubricante", "cosmeticos", "mujer"],
     tags: ["vaginal", "lubricantes", "excitante"],
   },
@@ -775,7 +775,7 @@ export let productos = [
     caracteristicas:
       "Características: Contenido:50 ml Sabor: Chocolate Aroma: Chocolate Efecto: Calor Modo de uso: Aplicar directo en la zona a lubricar o masajear (vulva, pene, pezones, etc) reaplicar de ser necesario.",
     sale: "true",
-    descuento: 10,
+    descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
     tags: ["lubricantes", "sabores", "chocolate"],
   },
