@@ -41,7 +41,6 @@ const ProductoCard = ({
             >
               <span className="position-absolute">{sale}</span>
               <Card.Img
-                className="d-block w-100"
                 variant="top"
                 src={src}
                 style={{

@@ -12,7 +12,11 @@ const DetalleProducto = ({ item }) => {
               className="d-block w-100"
               variant="top"
               src={imagen && imagen[0]}
-              style={{ width: "15rem", height: "15rem" }}
+              style={{
+                  width: "25rem", height: "25rem",
+                  objectFit: "cover",
+                  display: "block",
+                }}
             />
           </Col>
           <Col sm={8}>
