@@ -11,9 +11,9 @@ export let productos = [
     precio: 9990,
     stock: 1,
     descripcion:
-      "Enema anal ducha ¿QUÉ ES? No es un tema como para compartir con tu pareja porque, aunque tengáis mucha confianza, lo de las limpiezas anales corta un poco el rollo. Sin embargo, los accesorios de Ouch! tienen ese toque fashion que destierran por completo la imagen de la perilla clásica que utilizan los abuelos.Este limpiador anal negro tiene mucho glamur. Está fabricado en un material muy agradable al tacto y con una boquilla que entra cómodamente en el conducto del ano para facilitarte una limpieza profunda. Y lo más importante de todo, es un método muy efectivo de higienizar la zona antes de mantener relaciones con penetración anal",
+      "¿QUÉ ES?\nNo es un tema común para compartir con tu pareja porque, aunque tengan mucha confianza, las limpiezas anales pueden cortar un poco el rollo. Sin embargo, los accesorios de Ouch! tienen ese toque fashion que destierran por completo la imagen de la perilla clásica que utilizan los abuelos.\n\nEstá fabricado con un material muy agradable al tacto y con una boquilla que entra cómodamente en el conducto del ano para facilitarte una limpieza profunda. Y lo más importante de todo, es un método muy efectivo de higienizar la zona antes de mantener relaciones con penetración anal.",
     caracteristicas:
-      "IMPORTANTE: No retires el pequeño papel plástico que viene al interior del juguete, donde van ubicadas las pilas. Es una parte del producto. Si lo sacas, el juguete no funcionará correctamente. ¡No lo olvides! Lava tu juguete antes y después de cada uso con TOY CLEANER Usa lubricante en base de agua con tus juguetes. Todos nuestros juguetes son de materiales hipoalergénicos. Se lavan con agua tibia, un jabón neutro y nada más. Seca bien el juguete después de lavarlo y guárdalo en un lugar seco. No guardes tus juguetes en bolsas plásticas. No es necesario usar un preservativo con tu juguete, pero ayuda a facilitar la limpieza.",
+      "Material: Silicona\nLargo total: 13.5 cm\nDiámetro: 6 cm\nTubo inserción: 5.5 cm\nColor: Negro (Único)\nCapacidad : 89 ml",
     sale: "false",
     descuento: 0,
     categoria: ["dilatador anal", "cosmetica", "paraambos"],
@@ -26,16 +26,16 @@ export let productos = [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
     ],
-    nombre: "ROTADOR MARIPOSA USB SUBE Y BAJA",
+    nombre: "Rotador Conejo USB Up Down",
     precioCosto: 13990,
     precio: 30000,
     stock: 1,
     descripcion:
-      "BAILE BW-037037. Este cono de vibración cuenta con un innovador eje de empuje. También tiene picos retorcidos y hermosas crestas. Elige entre 4 velocidades de impulso y giro. El estimulador de clítoris con forma de polilla presenta 12 funciones de vibración con motores potentes y silenciosos, con un enchufe USB que se puede recargar directamente para un placer sin fin. En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer. Para tener una experiencia agradable y única solo debes complementarlo con uno de nuestros excelentes lubricantes o estimuladores y comenzar a gozar!",
+      "El juguete definitivo que todas las mujeres desean: el Rotador Conejo USB Up Down. Este vibrador-consolador-estimulador de clítoris y Punto G es la clave para alcanzar nuevas alturas de placer.\n\nsobre el producto:\n- Tecnología avanzada que combina movimientos de rotación y vibración para estimular el Punto G y el clítoris simultáneamente.\n- Eje flexible que se ajusta a tu cuerpo para una experiencia cómoda y personalizada.\n- Potentes motores silenciosos con múltiples velocidades y patrones de vibración para explorar diferentes sensaciones.\n- Diseño ergonómico con textura suave y sedosa para una estimulación más intensa y placentera.\n- Recargable mediante USB para una conveniencia sin fin y sin necesidad de pilas.\n\nCon el Rotador Conejo USB Up Down, cada sesión de juego se convierte en una experiencia sensual y emocionante. Descubre un mundo de placer con este juguete imprescindible.",
     caracteristicas:
-      "ROTADOR MARIPOSA USB SUBE Y BAJA BAILE BW-037037 Este cono de vibración cuenta con un innovador eje de empuje. También tiene picos retorcidos y hermosas crestas. Elige entre 4 velocidades de impulso y giro. El estimulador de clítoris con forma de polilla presenta 12 funciones de vibración con motores potentes y silenciosos, con un enchufe USB que se puede recargar directamente para un placer sin fin. En Sex shop Sexram también podrás encontrar todo tipo de estimuladores femeninos y masculinos; Consoladores, dildos, vibradores, balas vibradoras, rotadores, estimulador de clítoris y Punto G, masturbadores y muñecas inflables. Todos los juguetes eroticos disponibles para que nadie quede fuera del placer.",
+      "- Medidas: Largo total de 23 cm x 3 cm, con un largo insertable de 11 cm para una estimulación profunda y placentera.\n- Doble motor que se maneja por separado, permitiéndote ajustar la intensidad de las vibraciones según tus preferencias.\n- Perlas estimuladoras que añaden una textura adicional para aumentar el placer.\n- Cable de carga USB para una recarga rápida y conveniente, sin necesidad de pilas.\n- A prueba de agua, para que puedas disfrutar de momentos de placer en la ducha o en la bañera sin preocupaciones.\n\nCon este vibrador-consolador-estimulador, experimentarás sensaciones únicas y una satisfacción incomparable. ¡Sumérgete en un mundo de placer con este producto imprescindible!",
     sale: "true",
-    descuento: 0,
+    descuento: 20,
     categoria: ["rotador", "vibrador", "mujer"],
     tags: ["vibrador", "rotador", "dildo"],
   },

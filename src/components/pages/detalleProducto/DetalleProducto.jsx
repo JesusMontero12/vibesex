@@ -1,5 +1,6 @@
 import { Button, Card, Carousel, Col, Container, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import Counter from "../../common/counter/Counter";
 
 const DetalleProducto = ({
   id,
@@ -47,8 +48,9 @@ const DetalleProducto = ({
                 className="fs-6 m-0 p-0 text-dark"
               >
                 <span>PRECIO: </span>
-                {precio} + IVA
+                {precio}
               </Card.Text>
+              {/* <Counter /> */}
               <Card.Text
                 className="text-left"
                 style={{
@@ -63,14 +65,21 @@ const DetalleProducto = ({
                   DESCRIPCIÓN:
                 </span>
                 <br />
-                <span>{descripcion}</span>
+                <span style={{ whiteSpace: "pre-wrap" }}>{descripcion}</span>
                 <br />
                 <br />
-                <span style={{ fontFamily: "arimo", fontWeight: "600" }}>
+                <span
+                  style={{
+                    fontFamily: "arimo",
+                    fontWeight: "600",
+                  }}
+                >
                   CARACTERÍSTICAS:
                 </span>
                 <br />
-                <span>{caracteristicas}</span>
+                <span style={{ whiteSpace: "pre-wrap" }}>
+                  {caracteristicas}
+                </span>
               </Card.Text>
             </Card.Body>
           </Col>
