@@ -26,12 +26,12 @@ export let productos = [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716685080/proyects/VibeSex/products/BW-037037_01_xsaxwi.jpg",
     ],
-    nombre: "Rotador Conejo USB Up Down",
+    nombre: "ROTADOR DELFIN USB",
     precioCosto: 13990,
     precio: 30000,
     stock: 1,
     descripcion:
-      "El juguete definitivo que todas las mujeres desean: el Rotador Conejo USB Up Down. Este vibrador-consolador-estimulador de clítoris y Punto G es la clave para alcanzar nuevas alturas de placer.\n\nsobre el producto:\n- Tecnología avanzada que combina movimientos de rotación y vibración para estimular el Punto G y el clítoris simultáneamente.\n- Eje flexible que se ajusta a tu cuerpo para una experiencia cómoda y personalizada.\n- Potentes motores silenciosos con múltiples velocidades y patrones de vibración para explorar diferentes sensaciones.\n- Diseño ergonómico con textura suave y sedosa para una estimulación más intensa y placentera.\n- Recargable mediante USB para una conveniencia sin fin y sin necesidad de pilas.\n\nCon el Rotador Conejo USB Up Down, cada sesión de juego se convierte en una experiencia sensual y emocionante. Descubre un mundo de placer con este juguete imprescindible.",
+      "El juguete definitivo que todas las mujeres desean: el Rotador delfin usb. Este vibrador-consolador-estimulador de clítoris y Punto G es la clave para alcanzar nuevas alturas de placer.\n\nsobre el producto:\n- Tecnología avanzada que combina movimientos de rotación y vibración para estimular el Punto G y el clítoris simultáneamente.\n- Eje flexible que se ajusta a tu cuerpo para una experiencia cómoda y personalizada.\n- Potentes motores silenciosos con múltiples velocidades y patrones de vibración para explorar diferentes sensaciones.\n- Diseño ergonómico con textura suave y sedosa para una estimulación más intensa y placentera.\n- Recargable mediante USB para una conveniencia sin fin y sin necesidad de pilas.\n\nCon el Rotador delfin usb, cada sesión de juego se convierte en una experiencia sensual y emocionante. Descubre un mundo de placer con este juguete imprescindible.",
     caracteristicas:
       "- Medidas: Largo total de 23 cm x 3 cm, con un largo insertable de 11 cm para una estimulación profunda y placentera.\n- Doble motor que se maneja por separado, permitiéndote ajustar la intensidad de las vibraciones según tus preferencias.\n- Perlas estimuladoras que añaden una textura adicional para aumentar el placer.\n- Cable de carga USB para una recarga rápida y conveniente, sin necesidad de pilas.\n- A prueba de agua, para que puedas disfrutar de momentos de placer en la ducha o en la bañera sin preocupaciones.\n\nCon este vibrador-consolador-estimulador, experimentarás sensaciones únicas y una satisfacción incomparable. ¡Sumérgete en un mundo de placer con este producto imprescindible!",
     sale: "true",
@@ -51,9 +51,9 @@ export let productos = [
     precio: 20000,
     stock: 1,
     descripcion:
-      "Coge todos los elementos clave de un vibrador de conejo y combínalos con un anillo para el pene y te quedará este fantástico anillo para el pene de conejo. Este juguete que estimula la erección abrazará cómodamente la base de su pene y disminuirá el flujo de sangre para una erección más dura y más grande que durará más. Y con una acumulación más prolongada, puede estar seguro de obtener algunos resultados poderosos. El vibrador de bala se sostiene debajo del estímulo del clítoris del conejo y enviará sensaciones lujosas a través del estimulador y dentro del clítoris de su pareja con cada empuje. Finalmente, este juguete también cuenta con un anillo texturizado para una estimulación aún mayor, lo que lo convierte en un juguete sexual al que te encontrarás buscando una y otra vez.",
+      "Disfruta de una experiencia única con el Anillo para el Pene de Conejo, que combina las mejores características de un vibrador de conejo con un anillo para el pene. Este innovador juguete está diseñado para estimular la erección al abrazar cómodamente la base del pene, disminuyendo el flujo sanguíneo para una erección más dura y duradera. Con una acumulación prolongada, te garantiza resultados intensos y satisfactorios.\n\nEl potente vibrador de bala se sitúa debajo del estimulador de clítoris en forma de conejo, enviando vibraciones placenteras a través del estimulador directamente al clítoris de tu pareja con cada movimiento. Además, el anillo cuenta con una textura adicional para incrementar la estimulación, convirtiéndolo en un juguete indispensable en tu colección. Una vez que lo pruebes, lo buscarás una y otra vez para una experiencia incomparable.",
     caracteristicas:
-      "Recomendaciones: Lávalo antes y después de utilizarlo con agua tibia y jabón. Si es de uso personal con tu pareja, no necesitas preservativo para utilizarlo. Siempre guárdalo seco y en un lugar sin humedad. Puedes utilizarlo donde quieras! Debajo del agua! Siempre debes guardarlo limpio con Toy cleaner",
+      "Para garantizar una experiencia segura y placentera, sigue estas recomendaciones:\n\n- Lávalo antes y después de utilizarlo con agua tibia y jabón.\n- Si es de uso personal con tu pareja, no necesitas preservativo para utilizarlo.\n- Siempre guárdalo seco y en un lugar sin humedad.\n- Puedes utilizarlo donde quieras, incluso debajo del agua.\n- Siempre debes guardarlo limpio utilizando Toy Cleaner para mantenerlo en perfectas condiciones.",
     sale: "true",
     descuento: 0,
     categoria: ["vibrador", "anillo", "paraambos"],
@@ -71,8 +71,9 @@ export let productos = [
     precio: 7000,
     stock: 1,
     descripcion:
-      "son esposas de metal con una suave y peluda cubierta para mayor comodidad. Sorprende a tu pareja con estas suaves esposas y disfruten juntos de muchas fantasías. Las Esposas metal peluda son ideales para que lo intentes y salgas de dudas, que tan rudo o ruda crees que eres, pues dale la vuelta y dile… Arriba las manos!! Incluye dos llaves. Te recomendamos visitar seccion BSDM",
-    caracteristicas: "COLOR SEGUN STOCK EN TIENDA",
+      "Estas esposas de metal vienen con una suave y peluda cubierta para mayor comodidad. Sorprende a tu pareja con estas suaves esposas y disfruten juntos de muchas fantasías. Las esposas de metal peludas son ideales para explorar tus límites y descubrir qué tan rudo o ruda puedes ser. Atrévete a decir: ¡Arriba las manos! Incluye dos llaves para mayor seguridad y conveniencia.\n\nTe recomendamos visitar nuestra sección BSDM para descubrir más productos emocionantes.",
+    caracteristicas:
+      "Material: Metal duradero con cubierta peluda para mayor comodidad\n- Incluye dos llaves para mayor seguridad\n- Ajustables para adaptarse a diferentes tamaños de muñeca\n- Ideal para juegos de rol y fantasías\n- Diseño seguro con mecanismo de liberación rápida\n- Perfectas para principiantes y entusiastas del BSDM",
     sale: "true",
     descuento: 0,
     categoria: ["paraambos", "mujer"],
@@ -90,9 +91,9 @@ export let productos = [
     precio: 3000,
     stock: 1,
     descripcion:
-      "Siente el placer como nunca antes, con el anillo vibrador desechable vas a disfrutar de muchas sensaciones diferentes mientras practicas sexo con tu amante, puedes tener una erección del pene mucho más potente y duradera a la vez que estimulas el clítoris de ella con la placentera vibración.",
+      "Siente el placer como nunca antes con el anillo vibrador desechable. Disfruta de una variedad de sensaciones mientras practicas sexo con tu amante. Este anillo no solo proporciona una erección más potente y duradera, sino que también estimula el clítoris de tu pareja con placenteras vibraciones, llevando el placer de ambos a un nuevo nivel.",
     caracteristicas:
-      "Para una buena experiencia de uso, solo debes estar erecto, aplicar lubricante y poner el anillo en la base del pene. Utilizar por un máximo de 20 min por acto sexual. Este ayudará a mantener una buena erección durante el acto y a retardar un poco la eyaculación. Recomendamos rebajar el vello para evitar incomodidad en el uso Observaciones: Anillo desechable. Batería dura 30 minutos de forma continua. Limpiar antes y después de utilizar, con agua tibia y jabón neutro. Guardar en un sitio limpio y seco, sin mezclar con otros juguetes. Usar con lubricante a base de agua y/o con preservativo. Libre de Ftalatos No mojar ni sumergir las partes eléctricas.",
+      "- Batería dura 30 minutos de forma continua\n- Material: Silicona suave y elástica\n- Desechable: Uso único para mayor higiene\n- Vibración potente para estimulación del clítoris\n- Mejora la erección, haciéndola más firme y duradera\n- Fácil de usar y cómodo de llevar\n- Tamaño ajustable para adaptarse a la mayoría de los tamaños",
     sale: "false",
     descuento: 0,
     categoria: ["anillo", "paraambos", "vibrador"],
@@ -110,9 +111,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Si quieres mantener los músculos de la vagina fuertes y saludables estas bolas chinas son el juguete que te estimulará durante todo el día. Simplemente inserte las bolas dentro de la vagina y deje el cordón visible fuera de su cuerpo para que pueda quitarlas fácilmente, a medida que su cuerpo se mueve a lo largo del tiempo que usa estas bolas, las bolas más pequeñas dentro de cada bola de Kegel se moverán y crearán sensaciones de golpe, causando espasmos musculares y estimulaciones hacia todo el piso pelvico. Estas contracciones musculares trabajarán para estimular sus paredes internas, al tiempo que les brindan un ejercicio increíble. Combina tu placer con un entrenamiento efectivo cuando utilizas estas increíbles bolas. Bolas chinas económicas para trabajar los músculos de la vagina y estimular tu sexualidad.",
+      "Mantén los músculos de la vagina fuertes y saludables con estas bolas chinas, el juguete que te estimulará durante todo el día. Simplemente inserta las bolas dentro de la vagina y deja el cordón visible fuera de tu cuerpo para retirarlas fácilmente. A medida que te mueves, las bolas más pequeñas dentro de cada bola de Kegel se desplazan, creando sensaciones que causan espasmos musculares y estimulan todo el suelo pélvico.\n\nEstas contracciones musculares no solo estimulan las paredes internas de la vagina, sino que también proporcionan un ejercicio efectivo. Combina tu placer con un entrenamiento beneficioso al usar estas increíbles bolas chinas. Son una opción económica para fortalecer los músculos vaginales y aumentar tu estimulación sexual.",
     caracteristicas:
-      "Características: Bolas chinas eróticas, Inserción vaginal, Pesas internas, 3 Bolas de ABS, Color: Fucsia, Seguro al cuerpo, Libre de Ftalatos Medidas: Diámetro 3,5 cm",
+      "- Bolas chinas eróticas para inserción vaginal\n- Pesas internas para estimulación y ejercicio\n- Incluye 3 bolas de ABS\n- Color: Fucsia\n- Material seguro para el cuerpo, libre de ftalatos\n- Diámetro: 3,5 cm",
     sale: "true",
     descuento: 0,
     categoria: ["bolas chinas", "mujer"],
@@ -130,9 +131,9 @@ export let productos = [
     precio: 20000,
     stock: 1,
     descripcion:
-      "Estimulador de Prostata Vibracion ¿QUÉ ES? Es un novedoso y exclusivo juguete sexual ideal para aquellos que se plantean probar las delicias del sexo anal por vez primera. Atrévete a sumergirte en el increíble y voluptuoso mundo del goce de la “puerta trasera”, con este estimulador diseñado para que experimentes todas las sensaciones posibles: el estimulador consta de un eje bulboso con la curvatura adecuada para alcanzar el famoso punto “P” (la próstata), en la base posee una serie de protuberancias que masajean el perineo, el ángulo entre ambas partes te asegura una sujeción perfecta y segura y las vibraciones de su potente motor magnifican el placer de tus orgasmos. En el extremo del estimulador se encuentra el botón que enciende y apaga las trepidaciones.",
+      "ESTIMULADOR DE PRÓSTATA VIBRACIÓN está confeccionado con silicona Elite, no contiene ftalatos, tiene un tacto suave y sensual y no incluye la pila triple A que necesita para funcionar (encuéntrala en nuestro apartado “pilas”).",
     caracteristicas:
-      "ESTIMULADOR DE PROSTATA VIBRACION está confeccionado con silicona Elite, no contiene ftalatos, es hipo alergénica, tiene un tacto suave y sensual y no incluye la pila triple A que necesita para funcionar (encuéntrala en nuestro apartado “pilas”). Lubrícalo bien antes de usarlo y luego lávalo con toy Cleaner y enjuágalo con agua tibia. Medidas: longitud insertable 9.5 cm y diámetro máximo 3 cm.",
+      "- Material: Silicona Elite\n- Libre de ftalatos y hipoalergénico\n- Tacto suave y sensual\n- Diseño ergonómico para estimulación precisa\n- Funciona con pila triple A (no incluida)\n- Medidas: longitud insertable 9.5 cm, diámetro máximo 3 cm\n- Fácil de limpiar con Toy Cleaner y agua tibia",
     sale: "true",
     descuento: 0,
     categoria: ["paraambos", "dilator", "vibrador"],
@@ -150,9 +151,9 @@ export let productos = [
     precio: 12000,
     stock: 1,
     descripcion:
-      "Estas sensuales y provocativas Esposas de Cuero Peludas son el complemento ideal para tus juegos de sumisión. Colócale en las muñecas de tu amante estos increíbles puños confeccionados con vinilo de la más alta calidad y resistencia, de tacto aterciopelado y ajustes de metal, que al mismo tiempo resultan elegantes y cómodos.",
+      "Estas sensuales y provocativas Esposas de Cuero Peludas son el complemento ideal para tus juegos de sumisión.\nColócale en las muñecas de tu amante estos increíbles puños confeccionados con vinilo de la más alta calidad y resistencia, de tacto aterciopelado y ajustes de metal, que al mismo tiempo resultan elegantes y cómodos.",
     caracteristicas:
-      "Apuesta fuerte y juega duro con las Esposas de Cuero Peludas que gracias a su cierre de gran resistencia, lograrán que tu dominio sea completo y que tu sumiso no quiera ni pueda escapar de ti.",
+      "- Material: Vinilo de alta calidad y resistencia\n- Tacto: Aterciopelado y sensual\n- Ajustes: Con cierre de gran resistencia\n- Diseño: Elegante y cómodo\n- Uso: Ideal para juegos de sumisión y dominación\n- Seguridad: Garantiza que el sumiso no pueda escapar\n- Color: Negro\n- Tamaño: Ajustable para adaptarse a diferentes tamaños de muñeca\n- Fácil de limpiar y mantener",
     sale: "false",
     descuento: 0,
     categoria: ["paraambos", "mujer"],
@@ -170,9 +171,9 @@ export let productos = [
     precio: 12000,
     stock: 1,
     descripcion:
-      "El Plug anal pom pon es un dilatador anal de acero con un tierno Pom Pon en uno de sus extremos. Este popular y glamoroso diseño no sólo dilata la zona anal previo a la penetración sino que también es un atractivo visual a la hora de jugar.",
+      "El Plug Anal Pom Pon es un dilatador anal de acero con un tierno Pom Pom en uno de sus extremos. Este diseño, además de ser popular y glamoroso, tiene la funcionalidad de dilatar la zona anal previo a la penetración, convirtiéndolo en un atractivo visual durante el juego íntimo.\n\nFabricado con acero de alta calidad, este plug anal proporciona una sensación de peso y firmeza que intensifica la estimulación. Su tamaño y forma están cuidadosamente diseñados para garantizar una inserción suave y cómoda, mientras que el Pom Pom agrega un toque de diversión y coquetería al juego.\n\nExperimenta nuevas sensaciones y añade un elemento juguetón a tu vida íntima con este encantador Plug Anal Pom Pon.",
     caracteristicas:
-      "Caractarísticas: – Materialidad: Metal. – Resistente al Agua y Sumergible. – Color del Pom Pon:segun stock disponible multicolor Medidas: – Largo Total: 6cm – Diámetro: 3cm Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
+      "Características:\n- Materialidad: Metal\n- Resistente al Agua y Sumergible\n- Color del Pom Pon: según stock disponible multicolor\n- Medidas:\n  - Largo Total: 6cm\n  - Diámetro: 3cm\n\nSe recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe realizarse antes y después de usarlo con abundante agua tibia y jabón de PH neutro.",
     sale: "true",
     descuento: 0,
     categoria: ["dilatador", "paraambos"],
@@ -190,9 +191,9 @@ export let productos = [
     precio: 12990,
     stock: 1,
     descripcion:
-      "El Masturbador Vagina Realista Mini, entrega mayor placer al momento de la masturbación, por su material realístico que es el Cyber Skin y por la textura interna que presenta, asemejando el interior de una mujer.",
+      "El Masturbador Vagina Realista Mini ofrece un mayor placer durante la masturbación gracias a su material realístico Cyber Skin y a la textura interna que presenta, asemejando el interior de una mujer.\n\nExperimenta sensaciones increíbles con este masturbador diseñado para proporcionar un realismo excepcional y una estimulación intensa. El Cyber Skin es suave al tacto y se adapta a la temperatura del cuerpo, brindando una experiencia más realista y placentera.\n\nDisfruta de momentos íntimos más satisfactorios con el Masturbador Vagina Realista Mini, tu compañero perfecto para explorar nuevas sensaciones y alcanzar orgasmos más intensos.",
     caracteristicas:
-      "Material: Cyber Skin Largo total: 12.5 cm. Lago insertable: 12 cm Aprox. Color: Beige",
+      "Características:\n- Material: Cyber Skin realista\n- Textura interna que simula el interior de una mujer\n- Tamaño compacto y fácil de manejar\n- Proporciona estimulación intensa y realista\n- Suave al tacto y se adapta a la temperatura del cuerpo\n- Diseño ergonómico para un agarre cómodo\n- Fácil de limpiar y mantener\n- Ideal para explorar sensaciones nuevas y alcanzar orgasmos más intensos",
     sale: "false",
     descuento: 0,
     categoria: ["hombre", " masturbador"],
@@ -210,9 +211,9 @@ export let productos = [
     precio: 12990,
     stock: 1,
     descripcion:
-      "Ducha anal Mr Play XL es un enema para realizar lavados anales previos al acto sexual y así poder disfrutar sin pudores y solo entregarse al placer. Esta fabricado de goma de alta calidad y viene en un precioso color turquesa. Solo debes llenar la parte de silicona de la ducha con agua tibia e insertar la parte superior directamente en el ano, luego se presiona la base del enema para lanzar el agua y listo!",
+      "La Ducha anal Mr Play XL es un enema diseñado para realizar lavados anales previos al acto sexual y así poder disfrutar sin pudores y entregarse al placer. Está fabricado de goma de alta calidad y viene en un precioso color turquesa.\n\nSu uso es sencillo: solo debes llenar la parte de silicona de la ducha con agua tibia e insertar la parte superior directamente en el ano. Luego, se presiona la base del enema para lanzar el agua y listo. Disfruta de una higiene íntima y prepárate para una experiencia placentera y cómoda.",
     caracteristicas:
-      "Material: Goma Color: Turquesa Reutilizable Resistente al agua /Sumergible Uso Unisex Capacidad: 310 Ml Super Potente Flexible Facil de usar",
+      "Características:\n- Material: Goma\n- Color: Turquesa\n- Reutilizable\n- Resistente al agua y sumergible\n- Uso unisex\n- Capacidad: 310 ml\n- Super potente\n- Flexible\n- Fácil de usar\n",
     sale: "false",
     descuento: 0,
     categoria: ["dilatador anal", "cosmetica", "paraambos"],
@@ -230,9 +231,9 @@ export let productos = [
     precio: 8000,
     stock: 1,
     descripcion:
-      "ANILLO-COCK-RING DOBLE Puedes usarlo como anillo doble para tener más tensión o lo puedes separar y compartirlo con tu pareja, Anillo Doble se recomienda para erecciones mas fuertes y duraderas.",
+      "El Anillo-Cock-Ring Doble es un accesorio versátil que puedes usar de dos maneras: como anillo doble para mayor tensión o separado para compartirlo con tu pareja. Se recomienda el uso del anillo doble para lograr erecciones más fuertes y duraderas.\n\nDisfruta de la versatilidad y la intensidad que ofrece este anillo, diseñado para brindar mayor placer y potenciar tu experiencia sexual.",
     caracteristicas:
-      "Fabricado con silicona de gran calidad para garantizarte la máxima higiene y seguridad e hipoalergénica. Experimenta con Anillo Doble nuevas sensaciones y diviértete con tu amante del placer de tener un poderoso pene !",
+      "Características:\n- Fabricado con silicona de gran calidad\n- Máxima higiene y seguridad\n- Hipoalergénico\n- Versátil: se puede usar como anillo doble o separado\n- Potencia las erecciones\n- Experimenta nuevas sensaciones\n- Diviértete con tu pareja\n- Color: [Especificar el color si es relevante]\n- Tamaño ajustable",
     sale: "false",
     descuento: 0,
     categoria: ["anillos", "hombre"],
@@ -250,9 +251,9 @@ export let productos = [
     precio: 15000,
     stock: 1,
     descripcion:
-      "El Plug anal de cola de zorro es un dilatador anal de acero con una tierna cola de zorro en uno de sus extremos. Este popular y glamoroso diseño no sólo dilata la zona anal previo a la penetración sino que también es un atractivo visual a la hora de jugar.",
+      "El Plug anal de cola de zorro es un sofisticado dilatador anal de acero, adornado con una suave y llamativa cola de zorro en uno de sus extremos. Este diseño no solo facilita la dilatación anal previa a la penetración, sino que también añade un elemento visualmente atractivo y lúdico durante tus juegos íntimos.\n\nFabricado con acero de alta calidad, el plug proporciona una sensación de firmeza y peso que intensifica la estimulación. La suave cola de zorro no solo añade un toque de fantasía y diversión, sino que también realza la experiencia erótica, convirtiéndolo en un accesorio perfecto para aquellos que buscan explorar nuevas sensaciones y elevar su placer a nuevos niveles.",
     caracteristicas:
-      "Caractarísticas: – Materialidad: Metal. – Color de la cola: segun stock disponible multicolor. Se recomienda el uso del producto con lubricantes a base de agua o híbridos. El aseo del producto debe ser antes y después de usar con abundante agua tibia y jabón de PH neutro.",
+      "Características:\n- Material: Metal\n- Color de la cola: Según stock disponible (multicolor)\n- Recomendado usar con lubricantes a base de agua o híbridos\n- Fácil de limpiar: Lavar con abundante agua tibia y jabón de pH neutro antes y después de cada uso\n- Diseño elegante y atractivo\n- Apto para uso prolongado\n- Seguro para el cuerpo",
     sale: "false",
     descuento: 0,
     categoria: ["dilatador", "paraambos"],
@@ -270,9 +271,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "¿Qué fue antes el huevo o la gallina? Nunca lo sabremos… Lo único que tenemos claro es que seguro que va a haber un antes y un después cuando pruebes el masturbador masculino Huevo Tenga Egg. Llevas mucho tiempo sirviéndote tú mismx y eres quien mejor sabe cómo, dónde y cuándo tocarte. Pero nunca te has planteado incrementar tu placer. ¿Para qué, si ya tengo suficiente? Conformarse está muy bien, pero conseguir el sobresaliente no es tan complicado con este juguete que intensificará tu placer en solitario. Cada uno de los 12 huevos desechables Tenga tiene una textura interior distinta diseñada especialmente para aportarte estimulaciones distintas y que te olvides de la textura de tu mano. Cuando pruebes el huevo Tenga, tu masturbación subirá de nivel y todo el mundo querrá saber cuál es la clave de tu felicidad.",
+      "Has estado satisfaciéndote tú mismo durante mucho tiempo y sabes exactamente cómo, dónde y cuándo tocarte. Pero, ¿alguna vez has pensado en aumentar tu placer? ¿Por qué conformarse con lo suficiente cuando puedes alcanzar el máximo placer con este innovador juguete?\n\nCada uno de los 12 huevos desechables Tenga tiene una textura interior única, diseñada especialmente para ofrecerte distintas estimulaciones y hacerte olvidar la textura de tu mano. Cuando pruebes el Huevo Tenga, tu masturbación alcanzará un nuevo nivel y todos querrán saber el secreto de tu felicidad.",
     caracteristicas:
-      "Masturbador masculino de un solo uso. Incluye lubricante. 12 texturas interiores distintas. Ideal para llevarlo allá donde quieras. Elástico y adaptable a todos los tamaños. Superplacentero y estimulante. CÓMO SE UTILIZAN LOS HUEVOS MASTURBADORES TENGA Al abrir el cascarón del huevo verás que, al sacar el masturbador, encontrarás el lubricante que viene en el interior. Para que el uso del Tenga Egg sea suave y agradable, aplica el lubricante dentro del huevo y al introducir tu miembro en él, notarás como el material elastómero de este convierte el huevo en un juguete muy elástico y agradable. Con el masturbador masculino Tenga Egg de Tenga disfrutarás de ti mismx como nunca antes. ¡Huevos al poder!",
+      "- Masturbador masculino de un solo uso\n- Incluye lubricante\n- 12 texturas interiores distintas\n- Ideal para llevar a donde quieras\n- Elástico y adaptable a todos los tamaños\n- Superplacentero y estimulante\n\nCómo utilizar los huevos masturbadores Tenga:\nAl abrir el cascarón del huevo, encontrarás el lubricante en el interior. Para que el uso del Tenga Egg sea suave y agradable, aplica el lubricante dentro del huevo y, al introducir tu miembro en él, notarás cómo el material elastómero convierte el huevo en un juguete muy elástico y placentero.\n\nCon el masturbador masculino Tenga Egg disfrutarás de ti mismo como nunca antes. ¡Huevos al poder!",
     sale: "true",
     descuento: 0,
     categoria: ["masturbador", "hombre"],
@@ -290,9 +291,9 @@ export let productos = [
     precio: 12000,
     stock: 1,
     descripcion:
-      "El complemento perfecto para los que les gusta el juego duro. Una forma segura de demostrar quien es el que manda con este látigo para principiantes. Iniciarse en el mundo de la dominación con un producto de mucha calidad y seguro, fabricado por una de las marcas referentes en la temática bondage. Todo con la calidad a la que nos suelen tener acostumbrados los chicos de Fetish Fantasy.",
+      "Descubre el complemento ideal para aquellos que disfrutan del juego intenso. Con este látigo diseñado para principiantes, podrás demostrar quién manda de manera segura y efectiva.\n\nSumérgete en el mundo de la dominación con un producto de alta calidad y seguridad, creado por una de las marcas más reconocidas en el ámbito del bondage. Fetish Fantasy ofrece la excelencia y fiabilidad que necesitas para explorar tus fantasías con total confianza.",
     caracteristicas:
-      "Medidas del mango: 12 cm de largo Largo total aproximado: 64 cm Material: cuero sintético. Su mera presencia genera tal excitación que quien los prueba una vez, repite. La tentación de lo prohibido y la curiosa mezcla entre dolor y placer hacen de los azotadores, fustas y látigos sexuales un complemento imprescindible en las prácticas de BDSM.",
+      "Medidas del mango: 12 cm de largo\nLargo total aproximado: 64 cm\nMaterial: cuero sintético\n\nSu mera presencia genera tal excitación que quien los prueba una vez, repite. La tentación de lo prohibido y la curiosa mezcla entre dolor y placer hacen de los azotadores, fustas y látigos sexuales un complemento imprescindible en las prácticas de BDSM.",
     sale: "false",
     descuento: 0,
     categoria: ["BDMS", "paraambos"],
@@ -310,9 +311,9 @@ export let productos = [
     precio: 20000,
     stock: 1,
     descripcion:
-      "Este hermoso conejo de silicona de succión violeta con 30 funciones de vibración es la nueva adición perfecta a tu armario de traviesos juguetes nocturnos. Masajea tu punto G con el eje curvo y la punta más gruesa para enviarte a un frenesí que te adormece y aprieta las sábanas. La suave silicona se sentirá sensacional contra tu piel, mientras que el estimulador de succión aumentará tu sensibilidad y creará deliciosos temblores en todo tu cuerpo. Al aumentar el flujo de sangre a su clítoris y labios, este bonito vibrador rosa aumentará su sensibilidad, lo que conducirá a orgasmos más intensos y placenteros.",
+      "Este hermoso conejo de silicona con succión y 30 funciones de vibración es la adición perfecta a tu colección de juguetes nocturnos.\n\nMasajea tu punto G con su eje curvo y punta más gruesa, llevándote a un frenesí que te hará apretar las sábanas. La suave silicona se siente sensacional contra tu piel, mientras que el estimulador de succión aumenta tu sensibilidad y crea deliciosos temblores por todo tu cuerpo.\n\nAl incrementar el flujo de sangre a tu clítoris y labios, este encantador vibrador violeta aumentará tu sensibilidad, conduciendo a orgasmos más intensos y placenteros.",
     caracteristicas:
-      "Lo que tienes que saber de este producto Largo: 20cm. Diámetro: 3.8cm. Tipo de alimentación: pila. Cuenta con 30 modos de vibración.",
+      "Material: silicona\nResistente al agua (no sumergible)\n30 modos diferentes de vibración\nLongitud: 20,0 cm\nDiámetro: 3,8 cm\nUsa 2 baterías AAA (no incluidas)",
     sale: "false",
     descuento: 0,
     categoria: ["vibrador", "dildo", "mujer"],
@@ -325,14 +326,14 @@ export let productos = [
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694072/proyects/VibeSex/products/barbara-78_rxymlx.jpg",
       "https://res.cloudinary.com/dqngvzxqy/image/upload/v1716694072/proyects/VibeSex/products/barbara-78_rxymlx.jpg",
     ],
-    nombre: "DILDO BARBARA 7.8",
+    nombre: "DILDO BÁRBARA 7.8",
     precioCosto: 14990,
     precio: 14990,
     stock: 1,
     descripcion:
-      "Dildo Bárbara te acompañará en todas tus travesuras! ya sea a sol@s o junto a tu pareja. Es un juguetote muy fácil de usar con textura realista para mayor estimulación y es util para que lo uses en cualquier posición.",
+      "Descubre a tu compañero de travesuras definitivo: el Dildo Bárbara. Este juguete está diseñado para acompañarte en momentos íntimos tanto en solitario como en pareja. Con su textura realista, te brindará una estimulación intensa y placentera en cualquier posición que desees explorar. Su diseño ergonómico y su facilidad de uso lo convierten en un compañero imprescindible para tus juegos eróticos.",
     caracteristicas:
-      "Textura realista. Flexible. Con ventosa para jugar sin manos. Se ajusta a tu arnés. Material: TPR A prueba de agua. Largo: 20 cm Ancho: 4,2 cm Color: Beige Ventosa adherente",
+      "- Textura realista\n- Flexible\n- Con ventosa para jugar sin manos\n- Se ajusta a tu arnés\n- Material: TPR\n- A prueba de agua\n- Largo: 20 cm\n- Ancho: 4,2 cm\n- Color: Beige\n- Ventosa adherente",
     sale: "false",
     descuento: 0,
     categoria: ["dildo", "mujer"],
@@ -350,9 +351,9 @@ export let productos = [
     precio: 8000,
     stock: 1,
     descripcion:
-      "¡Potencia y placer se unen con la funda para el pene! Diseñada para intensificar la experiencia sexual, esta funda está fabricada con silicona de alta calidad, que proporciona una sensación suave y realista al tacto. Su diseño ergonómico se adapta perfectamente a la forma natural del cuerpo masculino, ofreciendo comodidad y seguridad durante su uso. Con su textura única y detalles realistas, esta funda añade grosor y longitud a tu pene, aumentando el placer tanto para ti como para tu pareja. Además, cuenta con un anillo ajustable en la base que garantiza un ajuste perfecto y permite mantener la erección por más tiempo, prolongando así la experiencia sexual.",
+      "Experimenta una nueva dimensión de placer con la funda para el pene de silicona. Diseñada para intensificar la experiencia sexual, esta funda está fabricada con silicona de alta calidad que proporciona una sensación suave y realista al tacto. Su diseño ergonómico se adapta perfectamente a la forma natural del cuerpo masculino, ofreciendo comodidad y seguridad durante su uso. Con su textura única y detalles realistas, esta funda añade grosor y longitud a tu pene, aumentando el placer tanto para ti como para tu pareja. Además, cuenta con un anillo ajustable en la base que garantiza un ajuste perfecto y permite mantener la erección por más tiempo, prolongando así la experiencia sexual.",
     caracteristicas:
-      "Entiendo. Aquí tienes características más generales: Material seguro y suave. Diseño ergonómico. Aumenta grosor y longitud. Fácil de usar y limpiar. Ajustable para diferentes tamaños. Textura realista para una experiencia placentera.",
+      "- Material seguro y suave\n- Diseño ergonómico\n- Aumenta grosor y longitud\n- Fácil de usar y limpiar\n- Ajustable para diferentes tamaños\n- Textura realista para una experiencia placentera",
     sale: "false",
     descuento: 0,
     categoria: ["paraambos", "fundas"],
@@ -370,8 +371,9 @@ export let productos = [
     precio: 12990,
     stock: 1,
     descripcion:
-      "Para el máximo placer lo mejor es un vibrador realista. Este vibrador cuenta con un cuerpo venoso y un glande para que experimentes la satisfacción completa. Solo necesitarás 2 pilas para encender este poderoso vibrador. Cuenta con una base con un dial giratorio para que no tengas que hacer esfuerzos y sólo te concentres en disfrutar.",
-    caracteristicas: "Multi vibración 2 pilas AA Medidas: 21 cm x 4 cm",
+      "Experimenta el máximo placer con este vibrador realista. Su diseño cuenta con un cuerpo venoso y un glande para una experiencia de satisfacción completa. Funciona con 2 pilas para encender su potente vibración. Además, su base tiene un dial giratorio para ajustar la intensidad fácilmente, permitiéndote concentrarte en disfrutar al máximo.",
+    caracteristicas:
+      "- Multi vibración\n- Usa 2 pilas AA (no incluidas)\n- Medidas: 21 cm x 4 cm",
     sale: "false",
     descuento: 0,
     categoria: ["dildo", "vibrador", "mujer"],
@@ -389,9 +391,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Kheper Games nos sorprende nuevamente con sus juegos seductores para parejas, en los que podrás descubrir nuevas prácticas sexuales, conocer los gustos sexuales de tu pareja, las fantasías eróticas y mucho más. El Juego de Cartas Let’s F*ck! de Kheper Games se puede jugar de 3 maneras diferentes y te brinda 250.000 formas de ganar! Está enfocado en posiciones sexuales, el cual consiste principalmente en realizar las pruebas eróticas que las cartas les irán indicando. El ideal es que cumplas tus fantasías sexuales junto a tu pareja El objetivo del Juego Juego Let’s F*ck! es que logres explorar otras prácticas sexuales junto a tu pareja e incorporar nuevas posiciones sexuales, brindándote como beneficio reinventar tu relación de pareja y satisfacer todas tus fantasías eróticas.",
+      "Descubre nuevas prácticas sexuales y fantasías eróticas con el Juego de Cartas Let’s F*ck! de Kheper Games. Este juego te ofrece 250.000 formas de ganar y se puede jugar de 3 maneras diferentes. Enfocado en posiciones sexuales, consiste en realizar pruebas eróticas que las cartas indican. Ideal para cumplir fantasías sexuales y explorar nuevas posiciones con tu pareja, reinventando la relación y satisfaciendo todas tus fantasías eróticas.",
     caracteristicas:
-      "48 cartas let´s f*ck 4 cartas follar Wild y reglas de los tres juegos: Fortuna f*ck, Partido y F*ck, Y preguntas personales sobre el sexo Observaciones: Dirigido a parejas. El juego contiene las instrucciones de uso en Español, Inglés, Francés y Alemán.",
+      "- 48 cartas Let's F*ck\n- 4 cartas F*ck Wild\n- Reglas de los tres juegos: Fortuna F*ck, Partido y F*ck\n- Preguntas personales sobre el sexo\n- Dirigido a parejas\n- Instrucciones en Español, Inglés, Francés y Alemán",
     sale: "false",
     descuento: 0,
     categoria: ["paraambos", "juego de salon"],
@@ -415,8 +417,9 @@ export let productos = [
     precio: 5000,
     stock: 1,
     descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente.",
-    caracteristicas: "3 condones de latex lubricados",
+      "Estos condones están fabricados con látex natural de alta calidad y vienen en un envase sellado herméticamente para garantizar su mayor protección. Además, están lubricados tanto en el interior como en el exterior para una experiencia cómoda y segura.",
+    caracteristicas:
+      "Paquete de 3 condones de látex lubricados para mayor comodidad y protección durante las relaciones sexuales.",
     sale: "true",
     descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
@@ -440,8 +443,9 @@ export let productos = [
     precio: 5000,
     stock: 1,
     descripcion:
-      "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
-    caracteristicas: "3 condones de latex lubricados",
+      "Fabricados con látex natural de alta calidad y envasados herméticamente para una protección máxima. Estos condones están lubricados tanto en el interior como en el exterior con dimetilsilicona, una sustancia no espermicida. Además, contienen sustancia espermicida Nonoxynol-9 para brindar una protección adicional durante las relaciones sexuales.",
+    caracteristicas:
+      "Paquete de 3 condones de látex lubricados para mayor comodidad y protección durante las relaciones sexuales.",
     sale: "true",
     descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
@@ -466,7 +470,8 @@ export let productos = [
     stock: 1,
     descripcion:
       "Condones fabricados con látex natural de la más alta calidad y su envase sellado herméticamente para su mayor protección. Están lubricados interior y exteriormente con dimetilsilicona (sustancia no espermicida). CONTIENE SUSTANCIA ESPERMICIDA NONOXYNOL-9 PARA MAYOR PROTECCIÓN.",
-    caracteristicas: "3 condones de latex lubricados",
+    caracteristicas:
+      "Paquete de 3 condones de látex lubricados para mayor comodidad y protección durante las relaciones sexuales.",
     sale: "true",
     descuento: 50,
     categoria: ["preservativos", "cosmetica", "hombre"],
@@ -490,9 +495,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Lentamente con Duramas Gel Retardante. De acción rápida, funciona reduciendo su nivel de sensibilidad para que usted y su pareja puedan disfrutar de un juego prolongado y de placer. Actúa como un desensibilizador tópico temporal para reducir la sensibilidad. Ayuda a prevenir la eyaculación precoz para prolongar el placer. Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel. Intensidad de desensibilización media. Contenido : 50 ml. Este, es un producto para la eyaculación precoz que ayuda a incrementar el tiempo de la relación sexual y retrasar la eyaculación actuando en el centro de las emociones cerebrales. El tratamiento para la eyaculación precoz con Duramas Gel Retardante y no requiere receta ni prescripción médica. Duramas Gel Retardante:  para la eyaculación precoz",
+      "Duramas Gel Retardante es un producto de acción rápida que ayuda a reducir la sensibilidad para prolongar el placer durante el juego íntimo. Actúa como un desensibilizador tópico temporal, ayudando a prevenir la eyaculación precoz y promoviendo una experiencia sexual más duradera y satisfactoria. Se recomienda aplicar una pequeña porción en el glande y tronco del pene unos 10 minutos antes de la actividad sexual y masajear hasta su absorción. Con una intensidad de desensibilización media, cada envase contiene 50 ml de gel.",
     caracteristicas:
-      "INGREDIENTES: L-ARGININA – AVENA SATIVA-EXTRACTO CANNABIS. Contenido :  50 ml Modo de uso: Debe aplicarse una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajearlo hasta que sea absorbido por la piel y para tratamiento aplicación 3 veces al día por 3 meses. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 POMOS DURAMAS GEL RETARDANTE ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN ISP Y CON SUS REGISTROS SANITARIOS AL DÍA.",
+      "- Ingredientes: L-Arginina, Extracto de Avena Sativa, Extracto de Cannabis.\n- Contenido: 50 ml.\n- Modo de uso: Aplicar una pequeña porción sobre el glande y el tronco del pene unos 10 minutos antes de la actividad sexual y masajear hasta su absorción. Para el tratamiento, aplicar 3 veces al día por 3 meses.\n- Resultados: Después del primer mes ya se observan resultados, se recomienda el tratamiento completo de 3 meses con 3 envases de Duramas Gel Retardante.\n -Certificaciones: Producto certificado por ISP y con registros sanitarios al día.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -510,9 +515,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Gel Agrandamiento Mr Thick Dick Es un producto natural que te hará que vuelvan esas erecciones fuertes y potentes. Mayor confianza en ti mismo, mayor rendimiento sexual y orgasmos increíbles.Gel Agrandamiento Mr Thick Dick no tiene efectos secundarios.",
+      "El Gel Agrandamiento Mr Thick Dick es un producto natural que te ayudará a recuperar erecciones fuertes y potentes. Aumenta tu confianza en ti mismo, mejora tu rendimiento sexual y experimenta orgasmos increíbles. Además, este gel no tiene efectos secundarios.",
     caracteristicas:
-      "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Gel Agrandamiento aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
+      "- Producto natural\n- Promueve erecciones fuertes y potentes\n- Aumenta la confianza y el rendimiento sexual\n- Orgasmos increíbles\n- Sin efectos secundarios",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -536,9 +541,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Lubricante Intimo intensificador de placer, formulado para otorgar lubricación extra durante las relaciones sexuales.Hecho a base de agua y de lenta absorción.",
+      "Lubricante Íntimo Intensificador de Placer: diseñado para brindar una lubricación adicional y aumentar el placer durante las relaciones sexuales. Su fórmula también ofrece un efecto refrescante y frío para estimular aún más la experiencia íntima.",
     caracteristicas:
-      "Características:Contenido: 50 ml.Efecto frío Incoloro Sin Olor ,No mancha,Ingredientes:Pure Water,Silicone Oil,Glycerol, Hydroxyethyl Cellulose, Menthol, Others.Observaciones:Aplicar la cantidad suficiente sobre la zona a lubricar , soplar suavemente.Totalmente compatible con el uso de preservativos y juguetes eróticos.No utilizar en caso de alergia a alguno de sus componentes.IMPORTANTE:Los resultados dependerán del uso correcto del producto y del organismo de cada persona.Antes de usar un producto de cosmética erótica se recomienda revisar los componentes de este para evitar reacciones alérgicas.En caso de irritación suspender y consultar con su dermatólogo. Mantener fuera del alcance de los niños.",
+      "- Contenido: 50 ml.\n- Efecto frío.\n- Incoloro.\n- Sin olor.\n- No mancha.\n- Ingredientes: Pure Water, Silicone Oil, Glycerol, Hydroxyethyl Cellulose, Menthol, Otros.\n\nObservaciones:\n- Aplicar la cantidad suficiente sobre la zona a lubricar y soplar suavemente.\n- Totalmente compatible con el uso de preservativos y juguetes eróticos.\n- No utilizar en caso de alergia a alguno de sus componentes.\n\nIMPORTANTE:\nLos resultados dependerán del uso correcto del producto y del organismo de cada persona. Antes de usar un producto de cosmética erótica, se recomienda revisar los componentes para evitar reacciones alérgicas. En caso de irritación, suspender y consultar con su dermatólogo. Mantener fuera del alcance de los niños.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -556,9 +561,9 @@ export let productos = [
     precio: 12000,
     stock: 1,
     descripcion:
-      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas.\nAplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias.\nEste lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas.\nEl cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica.\nUtiliza este gel anal inodoro para una hidratación de larga duración.\nEvitarás fisuras e incomodidades.",
     caracteristicas:
-      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+      "Características:\n- Gel anal con cannabis, Dimeticona y avena sativa.\n- Máxima hidratación para evitar fisuras.\n- Sin olor.\n- Lubricación intensa y de larga duración.\n- Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 25,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -576,9 +581,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+      "Es crucial garantizar condiciones óptimas de hidratación en tus primeras experiencias de sexo anal.\nAplica una pequeña cantidad de este gel para que las penetraciones sean más suaves y satisfactorias.\nEste lubricante anal concentrado es especialmente útil para quienes se están iniciando en estas prácticas.\nLa combinación de cannabis y Dimeticona proporciona una hidratación adicional que hace la piel más elástica.\nUtiliza este gel anal inodoro para una hidratación duradera y evita fisuras e incomodidades.",
     caracteristicas:
-      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+      "- Gel anal con cannabis, Dimeticona y avena sativa.\n- Máxima hidratación para evitar fisuras.\n- Sin olor.\n- Lubricación intensa y de larga duración.\n- Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -595,9 +600,10 @@ export let productos = [
     precioCosto: 1790,
     precio: 10000,
     stock: 1,
-    descripcion: "lubricante neutro, alta hidratación",
+    descripcion:
+      "Este lubricante neutro ofrece una alta hidratación para una experiencia más cómoda y placentera.\nSu fórmula avanzada está diseñada para garantizar una lubricación efectiva y duradera, creando una sensación de suavidad y deslizamiento excepcionales.\nIdeal para mejorar la intimidad en tus momentos más íntimos, este lubricante neutro es perfecto para evitar la sequedad y proporcionar una hidratación continua.\nDisfruta de una sensación de frescura y confort durante tus encuentros íntimos con este lubricante de alta calidad.",
     caracteristicas:
-      "Gel neutro, Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+      "- Gel neutro.\n- Lubricación intensa y de larga duración.\n- Cantidad del envase: 50 ml.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -615,9 +621,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "En sexram contamos con todos los productos para cumplir todas tus fantasías y las de tu pareja! Por esto te presentamos el increíble Virgin lubricante estrechante vaginal, con la cual podrás disfrutar de un rejuvenecimiento vaginal y así poder sentir todos tus músculos vaginales mucho mas estrechos. Diseñadas en su totalidad para entregar conformidad! Le da a la vagina una lujuria juvenil y proporciona más fricción para que la penetración sea más agradable. Es muy importante destacar que este gran LUBRICANTE ESTRECHADOR VIRGIN, es totalmente resistente al agua y compatible con todo tipo de juguetes, si lo quieres utilizar para ti sola! CLARO que se puede! Solo debes comenzar a disfrutar del placer de la masturbación, como lo hacías antes!",
+      "Diseñado completamente para brindar satisfacción total. Este LUBRICANTE ESTRECHADOR VIRGIN ofrece a la vagina una sensación juvenil y proporciona mayor fricción para hacer la penetración más placentera. Es crucial destacar que este lubricante es resistente al agua y compatible con todo tipo de juguetes sexuales, ¡incluso si decides usarlo para el placer en solitario! Así que, ¡sí! ¡Puedes comenzar a disfrutar del placer de la masturbación como antes!",
     caracteristicas:
-      "Diseñado para intensificar el placer. Ayuda a restaurar las paredes vaginales a un grosor juvenil. Ayuda a las mujeres y parejas a disfrutar de la sensación de más fricción durante la penetración. Puede ayudar a que el sexo sea más cómodo. Hecho de ingredientes totalmente naturales que hidratan y protegen la piel sensible. Excelente para usar con bolas kegel. Use 1- 2 aplicaciones del gel en los primeros 3 a 8 cms. por dentro de la vagina 20 minutos antes de la penetración. No es para uso oral o anal. No utilizar durante el embarazo. Compatible con látex y juguetes para adultos.",
+      "- Diseñado para intensificar el placer.\n- Ayuda a restaurar las paredes vaginales a un grosor juvenil.\n- Ayuda a las mujeres y parejas a disfrutar de la sensación de más fricción durante la penetración.\n- Puede ayudar a que el sexo sea más cómodo.\n- Hecho de ingredientes totalmente naturales que hidratan y protegen la piel sensible.\n- Excelente para usar con bolas kegel.\n- Use 1-2 aplicaciones del gel en los primeros 3 a 8 cm por dentro de la vagina 20 minutos antes de la penetración.\n- No es para uso oral o anal.\n- No utilizar durante el embarazo.\n- Compatible con látex y juguetes para adultos.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -635,9 +641,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Lubricante Íntimo Efecto Calor y Sabor Delicioso gel lubricante comestible, para lubricación íntima o para lubricar tus juguetes. Este gel produce un efecto de calor al soplarlo cerca de la piel o con el roce de la penetración, su sabor es dulce como la menta, ideal para comerlo desde el cuerpo de tu pareja o para sexo oral.",
+      "Descubre el Lubricante Íntimo Efecto Calor y Sabor Delicioso,\nun gel comestible perfecto para la lubricación íntima o para tus juguetes sexuales.\nExperimenta su efecto de calor al soplarlo cerca de la piel o durante la penetración.\nSu delicioso sabor a menta lo hace ideal para disfrutar directamente desde el cuerpo de tu pareja o durante el sexo oral.",
     caracteristicas:
-      "También sirve como gel de masajes eróticos. Contenido 60 ml.",
+      "- También sirve como gel de masajes eróticos.\n- Contenido: 50 ml.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricantes", "cosmetica", "paraambos"],
@@ -655,8 +661,9 @@ export let productos = [
     precio: 5000,
     stock: 1,
     descripcion:
-      "RHINO VIAGRA NATURAL LIQUIDO ES UN LIQUIDO A BASE DE HIERVAS NATURALES QUE SON VASODILATADORAS COMO L- ARGININA,GUARANA QUE TE PONDRAN DURO COMO UN RHINO,PRUEBA ESTE PODEROSO VIAGRA PARA TOMAR DIRECTAMENTE O MEZCLAR EN TU BEBIDA O TRAGO FAVORITO.",
-    caracteristicas: "envace de 30ml.",
+      "Rhino Viagra Natural Líquido es una fórmula líquida elaborada a base de hierbas naturales conocidas por sus propiedades vasodilatadoras, como la L-Arginina y el Guaraná. Estos ingredientes te brindarán la firmeza y resistencia de un rinoceronte. Prueba este potente Viagra directamente o mézclalo en tu bebida o cóctel favorito para una experiencia placentera.",
+    caracteristicas:
+      "- Fórmula líquida a base de hierbas naturales.\n- Propiedades vasodilatadoras para mejorar la firmeza y resistencia.\n- Ingredientes como L-Arginina y Guaraná.\n- Ideal para tomar directamente o mezclar en bebidas.\n- Ayuda a mejorar el rendimiento y la satisfacción sexual.\n- envace de 30ml.",
     sale: "false",
     descuento: 0,
     categoria: ["cosmetica", "afrodisiaco y fermonas", "hombre"],
@@ -674,8 +681,9 @@ export let productos = [
     precio: 5000,
     stock: 1,
     descripcion:
-      "SEX SHOTS ES UN POTENTE ESTIMULADOR DE LA LIBIDO Y DESEO SEXUAL TANTO MASCULINO COMO FEMENINO, POTENCIA LOS SENTIDOS Y LA SENSIBILIDAD DURANTE LAS RELACIONES ÍNTIMAS. SUS INGREDIENTES AUMENTAN EL RIEGO SANGUÍNEO EN LA ZONA GENITAL FAVORECIENDO LA ERECCIÓN DEL MIEMBRO MASCULINO Y PROPORCIONANDO MAYOR PLACER DURANTE EL COITO, AUMENTA LA POTENCIA Y LA RESISTENCIA SEXUAL. SEX SHOTS ES UN AFRODISÍACO Y COMO UNO DE LOS ESTIMULANTES MÁS POTENTES PARA FAVORECER LA SEXUALIDAD TANTO EN EL HOMBRE COMO EN LA MUJER.  ES UN PRODUCTO 100% NATURAL FORMULADO A BASE DE VITAMINAS Y AMINOÁCIDOS QUE POTENCIAN LOS SENTIDOS Y FAVORECEN LAS RESPUESTAS SEXUALES. SUS EFECTOS SE APRECIAN DE MANERA CASI INMEDIATA.",
-    caracteristicas: "envace de 30ml.",
+      "Sex Shots es un potente estimulador de la libido y deseo sexual, tanto masculino como femenino. Potencia los sentidos y la sensibilidad durante las relaciones íntimas. Sus ingredientes aumentan el riego sanguíneo en la zona genital, favoreciendo la erección del miembro masculino y proporcionando mayor placer durante el coito. Aumenta la potencia y la resistencia sexual. \n\nSex Shots es un afrodisíaco y uno de los estimulantes más potentes para favorecer la sexualidad tanto en hombres como mujeres. Es un producto 100% natural, formulado a base de vitaminas y aminoácidos que potencian los sentidos y favorecen las respuestas sexuales. Sus efectos se aprecian de manera casi inmediata.",
+    caracteristicas:
+      "- Estimulador potente de la libido y deseo sexual.\n- Potencia los sentidos y la sensibilidad durante las relaciones íntimas.\n- Aumenta el riego sanguíneo en la zona genital, favoreciendo la erección masculina.\n- Proporciona mayor placer durante el coito.\n- Aumenta la potencia y resistencia sexual.\n- Afrodisíaco para hombres y mujeres.\n- Formulado a base de vitaminas y aminoácidos.\n- Efectos casi inmediatos.\n- envace de 30ml.",
     sale: "false",
     descuento: 0,
     categoria: ["cosmetica", "afrodisiaco y fermonas", "paraambos"],
@@ -693,9 +701,9 @@ export let productos = [
     precio: 12000,
     stock: 1,
     descripcion:
-      "Es un producto natural que te hará que vuelvan esas erecciones fuertes y potentes. Mayor confianza en ti mismo, mayor rendimiento sexual y orgasmos increíbles. Titan® Gold no tiene efectos secundarios.",
+      "Titan® Gold es un producto natural diseñado para restaurar erecciones fuertes y potentes.\nAumenta tu confianza, mejora el rendimiento sexual y ofrece orgasmos increíbles.\nAdemás, Titan® Gold no tiene efectos secundarios.",
     caracteristicas:
-      "Activa la circulación sanguínea en los cuerpos cavernosos (del pene) proporcionando erecciones más largas y completas. Mejora la conducción nerviosa dentro/alrededor del área genital, lo que facilita la excitación. Mejora la viabilidad del esperma. Titan® Gold aumenta las capacidades de fertilización del fluido seminal. Mejora los parámetros básicos del pene como el tamaño y la circunferencia. Aumenta la agudeza sensorial, así como la resistencia durante el coito. Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios. La congestión pélvica también está vinculada a problemas de potencia.",
+      "- Activa la circulación sanguínea en los cuerpos cavernosos del pene, proporcionando erecciones más largas y completas.\n- Mejora la conducción nerviosa en el área genital, facilitando la excitación.\n- Mejora la viabilidad del esperma y aumenta las capacidades de fertilización del fluido seminal.\n- Mejora los parámetros básicos del pene, como el tamaño y la circunferencia.\n- Aumenta la agudeza sensorial y la resistencia durante el coito.\n- Elimina la congestión pélvica, un problema común asociado con los estilos de vida sedentarios.\n- Ayuda a resolver problemas de potencia relacionados con la congestión pélvica.",
     sale: "true",
     descuento: 25,
     categoria: ["lubricantes", "cosmeticos", "hombre"],
@@ -713,9 +721,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "LUBRICANTE CALOR SABOR SANDIA Lubricante Íntimo Efecto Calor y Sabor. Delicioso gel lubricante comestible, para lubricación íntima o para lubricar tus juguetes. Este gel produce un efecto de calor al soplarlo cerca de la piel o con el roce de la penetración, su sabor es dulce como el chocolate, ideal para comerlo desde el cuerpo de tu pareja o para sexo oral.",
+      "Lubricante Íntimo Efecto Calor y Sabor Sandía:\nUn delicioso gel lubricante comestible, ideal para la lubricación íntima o para tus juguetes sexuales.\nEste gel produce un efecto de calor al soplarlo cerca de la piel o con el roce durante la penetración.\nSu sabor es dulce, similar al chocolate, lo que lo hace perfecto para disfrutarlo directamente desde el cuerpo de tu pareja o durante el sexo oral.",
     caracteristicas:
-      "TAMBIÉN SIRVE COMO GEL DE MASAJES ERÓTICOS. Contenido 60 ml.",
+      "- Gel de masajes eróticos con efecto sensual y suave.\n- Aroma suave y agradable para aumentar el disfrute sensorial.\n- Fórmula que hidrata y nutre la piel durante el masaje.\n- Contenido: 60 ml.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
@@ -733,9 +741,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "En tus primeras experiencias de sexo anal es importante que garantices unas condiciones de hidratación óptimas. Aplica una pequeña cantidad de este gel para que las penetraciones sean más deslizantes y satisfactorias. Este lubricante anal concentrado presenta una particularidad especialmente útil para quienes acaban de iniciarse en estas prácticas. El cannabis en combinación con la Dimeticona ofrece un nivel de hidratación extra y hacen la piel más elástica. Utiliza este gel anal inodoro para una hidratación de larga duración. Evitarás fisuras e incomodidades.",
+      "Cuando se trata de tus primeras experiencias de sexo anal, garantizar una hidratación óptima es esencial.\nAplica una pequeña cantidad de este gel para que las penetraciones sean suaves y satisfactorias.\nEste lubricante anal concentrado es especialmente beneficioso para quienes están iniciándose en estas prácticas.\nLa combinación de cannabis y Dimeticona proporciona una hidratación adicional, manteniendo la piel elástica.\nUtiliza este gel anal inodoro para una hidratación duradera y evita fisuras e incomodidades.",
     caracteristicas:
-      "Gel anal con cannabis ,Dimeticona y avena sativa. Máxima hidratación para evitar fisuras. Sin olor. Lubricación intensa y de larga duración. Cantidad del envase: 50 ml.",
+      "- Gel anal formulado con cannabis, Dimeticona y avena sativa.\n- Proporciona una hidratación máxima para prevenir fisuras.\n- Libre de olores.\n- Ofrece una lubricación intensa y de larga duración.\n- Contenido del envase: 50 ml.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
@@ -752,8 +760,10 @@ export let productos = [
     precioCosto: 2790,
     precio: 12000,
     stock: 1,
-    descripcion: "lubricante excitante femenino",
-    caracteristicas: "envace de 50ml",
+    descripcion:
+      "Descubre el lubricante excitante femenino, diseñado para potenciar el placer íntimo y aumentar la excitación sexual.\nSu fórmula especial proporciona una sensación estimulante y una lubricación suave y duradera, ideal para intensificar las experiencias eróticas.\nDisfruta de una mayor sensibilidad y satisfacción en cada encuentro.",
+    caracteristicas:
+      "- Diseñado específicamente para potenciar el placer íntimo y aumentar la excitación sexual.\n- Fórmula especial que proporciona una sensación estimulante y una lubricación suave y duradera.\n- Ideal para intensificar las experiencias eróticas.\n- Mejora la sensibilidad y aumenta la satisfacción en cada encuentro íntimo.",
     sale: "true",
     descuento: 25,
     categoria: ["lubricante", "cosmeticos", "mujer"],
@@ -771,9 +781,9 @@ export let productos = [
     precio: 10000,
     stock: 1,
     descripcion:
-      "Lubricante chocolate moist 4 en 1 es un lubricante híbrido, formulado a base de agua que proporciona una lenta absorción. Posee un delicioso sabor y aroma a frutilla, ideal para practicar sexo oral. Su efecto calor encenderá cualquier encuentro incorporando un nuevo estímulo a los juegos previos, masturbación, sexo oral, anal o vaginal. No contiene azúcar, es de facil limpieza, no mancha y puede ser el complemento perfecto para un masaje localizado en cualquier zona erógena.",
+      "El lubricante Chocolate Moist 4 en 1 es una opción híbrida y de absorción lenta, formulada con base de agua.\nSu exquisito sabor y aroma a frutilla lo hacen perfecto para el sexo oral.\nAporta un excitante efecto calor que añade un estímulo adicional a los juegos previos, la masturbación, el sexo oral, anal o vaginal.\nLibre de azúcar, de fácil limpieza, no mancha y puede ser el complemento ideal para un masaje sensual en cualquier zona erógena.",
     caracteristicas:
-      "Características: Contenido:50 ml Sabor: Chocolate Aroma: Chocolate Efecto: Calor Modo de uso: Aplicar directo en la zona a lubricar o masajear (vulva, pene, pezones, etc) reaplicar de ser necesario.",
+      "- Contenido: 50 ml\n- Sabor: Chocolate\n- Aroma: Chocolate\n- Efecto: Calor\n- Modo de uso: Aplicar directamente en la zona a lubricar o masajear (vulva, pene, pezones, etc.) y reaplicar si es necesario.",
     sale: "true",
     descuento: 20,
     categoria: ["lubricante", "cosmeticos", "paraambos"],
@@ -791,9 +801,9 @@ export let productos = [
     precio: 15000,
     stock: 1,
     descripcion:
-      "Famoso complemento alimenticio Titan caps Gold que ayuda a los hombres a alcanzar máximo potencial sexual. Puede contribuir en la mejora del tamaño del miembro masculino y la mejora del rendimiento sexual. La composición de titancaps funciona directamente con los tejidos internos del pene, mejorando el riego sanguíneo y a su vez aumentando la calidad de las erecciones. Además, esta reforzado con el ingrediente secreto L-ARGININA, que esta indicado para el tratamiento de disfunción eréctil masculina. Esta se produce cuando un varón no puede obtener o mantener una erección firme, adecuada para una actividad sexual satisfactoria. Titan Caps Incrementa el grosor del pene en pocos meses y con resultados permanentes.",
+      "Descubre Titan Caps Gold, el famoso complemento alimenticio que ayuda a los hombres a alcanzar su máximo potencial sexual. Esta fórmula innovadora puede contribuir a mejorar el tamaño del miembro masculino y el rendimiento sexual.\n\nLa composición de Titan Caps funciona directamente con los tejidos internos del pene, mejorando el riego sanguíneo y aumentando la calidad de las erecciones. Este suplemento está reforzado con el ingrediente secreto L-Arginina, conocido por su eficacia en el tratamiento de la disfunción eréctil masculina.\n\nTitan Caps no solo incrementa el grosor del pene en pocos meses, sino que también ofrece resultados permanentes. ¡Descubre una vida sexual más satisfactoria con Titan Caps Gold!",
     caracteristicas:
-      "INGREDIENTES: L-ARGININA – HIERVA DEL CLAVO-MAGNESIO Y ZINC. Contenido :  20 capsulas Modo de uso: TOMAR 2 CAPSULAS 1 HORA ANTES DE UNA RELACION O PARA TRATAMIENTO 3 CAPSULAS DIARIAS. RESULTADOS: DESPUES DEL PRIMER MES YA HAY RESULTADOS ,LO IDEAL ES EL TRATAMIENTO DE 3 MESES ,OSEA 3 FRASCOS TITAN CAPS GOLD-AGRANDAMIENTO-PENE,PUEDE AUMENTAR DE 3 A 5 CM.TITAN CAPS GOLD ES UN PRODUCTO QUE CUENTA CON LA CERTIFICACIÓN DEL SEREMI DE SALUD Y CON SUS REGISTROS SANITARIOS AL DÍA.",
+      "- Ingredientes: L-Arginina, Hierba del Clavo, Magnesio y Zinc.\n- Contenido: 20 cápsulas\n- Modo de uso: Tomar 2 cápsulas 1 hora antes de una relación o 3 cápsulas diarias para tratamiento.\n- Resultados: Se pueden notar resultados después del primer mes, pero el tratamiento ideal es de 3 meses (3 frascos de Titan Caps Gold) para un agrandamiento del pene de 3 a 5 cm.\n- Titan Caps Gold cuenta con la certificación del SEREMI de Salud y sus registros sanitarios están al día.",
     sale: "false",
     descuento: 0,
     categoria: ["hombre", "capsulas"],
