@@ -33,7 +33,7 @@ const Carrito = ({ cart, deleteById, totalPrice, totalProd }) => {
                       caracteristicas,
                       descuento,
                     }) => (
-                      <Card key={id} className="">
+                      <Card key={id} className="m-2">
                         <Row>
                           <Col
                             xs={12}
@@ -65,11 +65,11 @@ const Carrito = ({ cart, deleteById, totalPrice, totalProd }) => {
                               </Container>
                             )}
                             <Card.Img
-                              className="object-fit-cover"
+                              className="object-fit-cover mx-3 my-1"
                               src={imagen && imagen[0]}
                               style={{
                                 width: "100%",
-                                height: "100px",
+                                height: "115px",
                               }}
                             />
                           </Col>
@@ -82,7 +82,7 @@ const Carrito = ({ cart, deleteById, totalPrice, totalProd }) => {
                             xxl={8}
                             className="m-0 p-0"
                           >
-                            <Card.Body className="bg-danger">
+                            <Card.Body>
                               <Card.Title>
                                 <Row>
                                   <Col xs={12} md={12} lg={11}>
