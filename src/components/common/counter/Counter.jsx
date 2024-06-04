@@ -1,12 +1,14 @@
 import { Button, ButtonGroup, ButtonToolbar, Container } from "react-bootstrap";
 
-const Counter = () => {
+const Counter = ({ sumar, restar, contador, onAdd }) => {
   return (
     <>
       <Container fluid className="my-4 mx-0 p-0">
         <ButtonToolbar aria-label="Toolbar with button groups" className="my-4">
           <ButtonGroup className="mx-1" aria-label="Basic example">
-            <Button variant="secondary">-</Button>
+            <Button variant="secondary" onClick={restar}>
+              -
+            </Button>
             <p
               className="text-black-50 mx-4 my-2"
               style={{
@@ -15,14 +17,23 @@ const Counter = () => {
                 fontWeight: "600",
               }}
             >
-              {1}
+              {contador}
             </p>
-            <Button variant="secondary">+</Button>
+            <Button variant="secondary" onClick={sumar}>
+              +
+            </Button>
           </ButtonGroup>
         </ButtonToolbar>
         <ButtonToolbar aria-label="Toolbar with button groups" className="my-4">
           <ButtonGroup className="mx-1" aria-label="Basic example">
-            <Button variant="dark">Agregar al carrito local</Button>
+            <Button
+              variant="dark"
+              onClick={() => {
+                onAdd(contador);
+              }}
+            >
+              Agregar al carrito local
+            </Button>
           </ButtonGroup>
           <ButtonGroup className="mx-1" aria-label="Basic example">
             <Button

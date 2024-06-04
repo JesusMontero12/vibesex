@@ -9,7 +9,7 @@ export let productos = [
     nombre: "ENEMA ANAL DUCHA 160 ML",
     precioCosto: 3990,
     precio: 9990,
-    stock: 1,
+    stock: 10,
     descripcion:
       "¿QUÉ ES?\nNo es un tema común para compartir con tu pareja porque, aunque tengan mucha confianza, las limpiezas anales pueden cortar un poco el rollo. Sin embargo, los accesorios de Ouch! tienen ese toque fashion que destierran por completo la imagen de la perilla clásica que utilizan los abuelos.\n\nEstá fabricado con un material muy agradable al tacto y con una boquilla que entra cómodamente en el conducto del ano para facilitarte una limpieza profunda. Y lo más importante de todo, es un método muy efectivo de higienizar la zona antes de mantener relaciones con penetración anal.",
     caracteristicas:

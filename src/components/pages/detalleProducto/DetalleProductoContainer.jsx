@@ -1,15 +1,18 @@
 import { useParams } from "react-router-dom";
 import DetalleProducto from "./DetalleProducto";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { collection, doc, getDoc } from "firebase/firestore";
 import { db } from "../../../firebaseConfig";
 import { productos } from "../../../data/productsMock";
 import { Badge, Container, Image } from "react-bootstrap";
+import { CartContext } from "../../../context/CartContext";
 
 const DetalleProductoContainer = () => {
   const { id } = useParams();
   const [item, setItem] = useState({});
-  const [error, setError] = useState();
+  const { addToCart, getQuantityById } = useContext(CartContext);
+
+  let initial = getQuantityById(id);
   //   useEffect(() => {
   //     const productcolection = collection(db, "products");
   //     const refDoc = doc(productcolection, id);
@@ -26,6 +29,11 @@ const DetalleProductoContainer = () => {
 
     getProduct.then((res) => setItem(res)).catch((error) => setError);
   }, [id]);
+
+  const onAdd = (cantidad) => {
+    let producto = { ...item, cantidad: cantidad };
+    addToCart(producto);
+  };
 
   const {
     imagen,
@@ -62,10 +70,7 @@ const DetalleProductoContainer = () => {
     );
 
   const newDescuento = descuento > 0 && (
-    <Badge
-      bg="danger"
-      style={{ fontFamily: "arimo", fontSize: "18px" }}
-    >
+    <Badge bg="danger" style={{ fontFamily: "arimo", fontSize: "18px" }}>
       {"-" + descuento + "%"}
     </Badge>
   );
@@ -103,6 +108,9 @@ const DetalleProductoContainer = () => {
       descuento={newDescuento}
       categoria={categoria}
       tags={tags}
+      item={item}
+      onAdd={onAdd}
+      initial={initial}
     />
   );
 };
