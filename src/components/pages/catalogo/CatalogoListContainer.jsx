@@ -1,31 +1,38 @@
+import CatalogoList from "./CatalogoList";
 import { useEffect, useState } from "react";
 import { db } from "../../../firebaseConfig";
-import CatalogoList from "./CatalogoList";
-import { collection, getDoc } from "firebase/firestore";
-import { productos } from "../../../data/productsMock";
+import { collection, getDocs, query, where } from "firebase/firestore";
 import { useParams } from "react-router-dom";
 
 const CatalogoListContainer = () => {
-  const { name } = useParams([]);
-  const [items, setItems] = useState([]);
-  const [error, setError] = useState(null);
+   const { name } = useParams();
+   const [items, setItems] = useState([]);
+   const [error, setError] = useState(null);
 
-  useEffect(() => {
-    let productsFiltered = productos.filter((product) =>
-      product.categoria.includes(name)
-    );
+   useEffect(() => {
 
-    const getProducts = new Promise((resolve, reject) => {
-      let x = true;
-      if (x) {
-        resolve(name ? productsFiltered : productos);
-      } else {
-        reject({ status: 400, message: "no estas autorizado" });
-      }
-    });
+     const productsCollection = collection(db, "productos");
+     let consulta = productsCollection;
 
-    getProducts.then((res) => setItems(res)).catch((error) => setError(error));
-  }, [name, productos]);
+     if (name) {
+       consulta = query(
+         productsCollection,
+         where("categoria", "array-contains", name)
+       );
+     }
+
+     getDocs(consulta)
+       .then((res) => {
+         let newArray = res.docs.map((doc) => {
+           return { id: doc.id, ...doc.data() };
+         });
+         setItems(newArray);
+       })
+       .catch((error) => {
+         console.error("Error al obtener productos:", error);
+         setError(error.message); // Guarda el mensaje de error
+       });
+   }, [name]);
 
   return <CatalogoList items={items} error={error} />;
 };

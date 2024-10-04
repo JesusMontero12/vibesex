@@ -82,7 +82,11 @@ const CartContextProvider = ({ children }) => {
 
   const getTotalPrice = () => {
     let total = cart.reduce((acc, producto) => {
-      return acc + producto.cantidad * producto.precio;
+      let precioDesc =
+        producto.precio - (producto.precio / 100) * producto.descuento;
+      return producto.descuento > 0
+        ? acc + producto.cantidad * precioDesc
+        : acc + producto.cantidad * producto.precio;
     }, 0);
     return total;
   };
